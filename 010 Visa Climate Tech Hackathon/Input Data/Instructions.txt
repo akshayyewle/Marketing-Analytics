@@ -1,0 +1,14 @@
+Intro
+
+Content of the dataset
+Dummy dataset of transactional data simulating card transactions and Open banking transactions (account)
+
+Tabs
+1] Persona definition
+Overview of key persona types that transactional data is divided into
+
+2] Card data
+Dummy dataset of card transactions across all persona types
+
+3] Open Banking data
+Dummy dataset of Open Banking transaction data across all persona types

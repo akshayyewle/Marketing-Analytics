@@ -1,0 +1,1379 @@
+Name,Value.accountId,cluster_name_adjusted,Value.amount.currencyCode,mrch_catg_rlup_nm2,Value.dates.booked,amount,Category
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,AMUSEMENT PARKS/CIRCUS,5/12/2023,3.73,entertainment
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,AMUSEMENT PARKS/CIRCUS,5/12/2023,3.73,entertainment
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,AMUSEMENT PARKS/CIRCUS,6/2/2023,4.39,entertainment
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,AMUSEMENT PARKS/CIRCUS,6/2/2023,7.4,entertainment
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,ART DEALERS & GALLERIES,7/14/2023,6.57,entertainment
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,ART DEALERS & GALLERIES,7/14/2023,6.57,entertainment
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,ARTIST/CRAFT SHOPS,6/13/2023,4.6,entertainment
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,AUTOMATED FUEL DISPENSERS,6/2/2023,65.92,transport
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,AUTOMOTIVE TIRE STORES,5/25/2023,166.13,transport
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,BAKERIES,6/14/2023,10.04,food
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,BAKERIES,7/21/2023,16.21,food
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,BAKERIES,7/21/2023,16.21,food
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,BAKERIES,7/1/2023,18.33,food
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,BAKERIES,6/6/2023,11.3,food
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,BAKERIES,7/27/2023,16.46,food
+transactions,5a73582adf954cf6b3db6cc97yedood7,Sensible Spenders,GBP,BAKERIES,6/28/2023,15.7,food
+transactions,5a73582adf954cf6b3db6cc97yedood7,Sensible Spenders,GBP,BAKERIES,6/28/2023,15.7,food
+transactions,5a73582adf954cf6b3db6cc97yedood7,Sensible Spenders,GBP,BAKERIES,7/12/2023,8.6,food
+transactions,5a73582adf954cf6b3db6cc97yedood7,Sensible Spenders,GBP,BAKERIES,7/12/2023,8.6,food
+transactions,5a73582adf954cf6b3db6cc97yedood7,Sensible Spenders,GBP,BAKERIES,7/13/2023,21.59,food
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,BANDS/ORCHESTRAS/ENTERTAIN,5/29/2023,75.38,entertainment
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,BANDS/ORCHESTRAS/ENTERTAIN,5/29/2023,75.38,entertainment
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,BANDS/ORCHESTRAS/ENTERTAIN,6/2/2023,6.27,entertainment
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,BANDS/ORCHESTRAS/ENTERTAIN,6/2/2023,6.27,entertainment
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,BANDS/ORCHESTRAS/ENTERTAIN,6/5/2023,8.79,entertainment
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,BARS/TAVERNS/LOUNGES/DISCOS,5/1/2023,22.66,food
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,BARS/TAVERNS/LOUNGES/DISCOS,5/1/2023,22.66,food
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,BARS/TAVERNS/LOUNGES/DISCOS,5/14/2023,14.3,food
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,BARS/TAVERNS/LOUNGES/DISCOS,5/14/2023,14.3,food
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,BARS/TAVERNS/LOUNGES/DISCOS,5/20/2023,13.36,food
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,BARS/TAVERNS/LOUNGES/DISCOS,5/21/2023,27.72,food
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,BARS/TAVERNS/LOUNGES/DISCOS,5/22/2023,19.35,food
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,BARS/TAVERNS/LOUNGES/DISCOS,5/22/2023,31.53,food
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,BARS/TAVERNS/LOUNGES/DISCOS,5/22/2023,31.53,food
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,BARS/TAVERNS/LOUNGES/DISCOS,5/22/2023,31.53,food
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,BARS/TAVERNS/LOUNGES/DISCOS,5/22/2023,31.53,food
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,BARS/TAVERNS/LOUNGES/DISCOS,5/22/2023,19.35,food
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,BARS/TAVERNS/LOUNGES/DISCOS,5/28/2023,23.56,food
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,BARS/TAVERNS/LOUNGES/DISCOS,5/28/2023,16.12,food
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,BARS/TAVERNS/LOUNGES/DISCOS,5/30/2023,22.32,food
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,BARS/TAVERNS/LOUNGES/DISCOS,5/30/2023,22.32,food
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,BARS/TAVERNS/LOUNGES/DISCOS,6/6/2023,18.72,food
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,BARS/TAVERNS/LOUNGES/DISCOS,6/12/2023,15.74,food
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,BARS/TAVERNS/LOUNGES/DISCOS,6/25/2023,2.55,food
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,BARS/TAVERNS/LOUNGES/DISCOS,6/25/2023,23.35,food
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,BARS/TAVERNS/LOUNGES/DISCOS,6/25/2023,23.35,food
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,BARS/TAVERNS/LOUNGES/DISCOS,6/25/2023,2.55,food
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,BARS/TAVERNS/LOUNGES/DISCOS,6/25/2023,23.35,food
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,BARS/TAVERNS/LOUNGES/DISCOS,6/25/2023,23.35,food
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,BARS/TAVERNS/LOUNGES/DISCOS,6/25/2023,2.55,food
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,BARS/TAVERNS/LOUNGES/DISCOS,6/25/2023,2.55,food
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,BARS/TAVERNS/LOUNGES/DISCOS,7/7/2023,27.1,food
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,BARS/TAVERNS/LOUNGES/DISCOS,7/7/2023,27.1,food
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,BARS/TAVERNS/LOUNGES/DISCOS,7/14/2023,34.17,food
+transactions,5a73582adf954cf6b3db6cc97yedood7,Sensible Spenders,GBP,BARS/TAVERNS/LOUNGES/DISCOS,6/10/2023,49.99,food
+transactions,5a73582adf954cf6b3db6cc97yedood7,Sensible Spenders,GBP,BARS/TAVERNS/LOUNGES/DISCOS,6/10/2023,9.57,food
+transactions,5a73582adf954cf6b3db6cc97yedood7,Sensible Spenders,GBP,BARS/TAVERNS/LOUNGES/DISCOS,6/14/2023,27.12,food
+transactions,5a73582adf954cf6b3db6cc97yedood7,Sensible Spenders,GBP,BARS/TAVERNS/LOUNGES/DISCOS,7/12/2023,64.75,food
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,BARS/TAVERNS/LOUNGES/DISCOS,5/20/2023,9.99,food
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,BARS/TAVERNS/LOUNGES/DISCOS,5/20/2023,9.99,food
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,BARS/TAVERNS/LOUNGES/DISCOS,5/22/2023,8.74,food
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,BARS/TAVERNS/LOUNGES/DISCOS,6/23/2023,13.87,food
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,BARS/TAVERNS/LOUNGES/DISCOS,7/16/2023,14.46,food
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,BARS/TAVERNS/LOUNGES/DISCOS,7/16/2023,5.26,food
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,BARS/TAVERNS/LOUNGES/DISCOS,7/16/2023,3.94,food
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,BARS/TAVERNS/LOUNGES/DISCOS,7/16/2023,5.26,food
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,BEAUTY/BARBER SHOPS,5/21/2023,106.14,wellness
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,BEAUTY/BARBER SHOPS,6/4/2023,15.06,wellness
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,BEAUTY/BARBER SHOPS,6/18/2023,83.54,wellness
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,BEAUTY/BARBER SHOPS,7/8/2023,70.69,wellness
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,BEAUTY/BARBER SHOPS,7/26/2023,23.23,wellness
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,BEAUTY/BARBER SHOPS,7/26/2023,41.3,wellness
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,BEAUTY/BARBER SHOPS,7/27/2023,71.3,wellness
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,BEAUTY/BARBER SHOPS,7/29/2023,28.36,wellness
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,BEAUTY/BARBER SHOPS,7/31/2023,15.47,wellness
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,BOOK STORES,6/2/2023,54.53,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,BOOK STORES,6/2/2023,54.53,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,BOOK STORES,7/4/2023,3,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,BOOK STORES,7/4/2023,3,shopping
+transactions,5a73582adf954cf6b3db6cc97yedood7,Sensible Spenders,GBP,BUS LINES,5/11/2023,25.11,transport
+transactions,5a73582adf954cf6b3db6cc97yedood7,Sensible Spenders,GBP,BUS LINES,5/20/2023,24.72,transport
+transactions,5a73582adf954cf6b3db6cc97yedood7,Sensible Spenders,GBP,BUS LINES,6/3/2023,1.88,transport
+transactions,5a73582adf954cf6b3db6cc97yedood7,Sensible Spenders,GBP,BUS LINES,6/3/2023,1.88,transport
+transactions,5a73582adf954cf6b3db6cc97yedood7,Sensible Spenders,GBP,BUS LINES,7/20/2023,25.86,transport
+transactions,5a73582adf954cf6b3db6cc97yedood7,Sensible Spenders,GBP,BUS LINES,7/20/2023,25.86,transport
+transactions,5a73582adf954cf6b3db6cc97yedood7,Sensible Spenders,GBP,BUS LINES,7/28/2023,2.6,transport
+transactions,5a73582adf954cf6b3db6cc97yedood7,Sensible Spenders,GBP,BUS LINES,7/29/2023,25.52,transport
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,BUSINESS SERVICES - DEFAULT,6/25/2023,2.62,N/A
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,BUSINESS SERVICES - DEFAULT,6/25/2023,2.62,N/A
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,BUSINESS SERVICES - DEFAULT,7/25/2023,43.63,N/A
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,BUSINESS SERVICES - DEFAULT,7/25/2023,43.63,N/A
+transactions,5a73582adf954cf6b3db6cc97yedood7,Sensible Spenders,GBP,BUYING/SHOPPING SERVICES,6/7/2023,57.01,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,BUYING/SHOPPING SERVICES,5/2/2023,50.32,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,"CABLE, SAT, PAY TV/RADIO SVCS",5/26/2023,13.62,home
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,"CABLE, SAT, PAY TV/RADIO SVCS",6/26/2023,14.02,home
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,"CABLE, SAT, PAY TV/RADIO SVCS",7/26/2023,14.18,home
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,"CABLE, SAT, PAY TV/RADIO SVCS",5/1/2023,17.53,home
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,"CABLE, SAT, PAY TV/RADIO SVCS",5/27/2023,14.87,home
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,"CABLE, SAT, PAY TV/RADIO SVCS",5/27/2023,14.87,home
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,"CABLE, SAT, PAY TV/RADIO SVCS",5/31/2023,17.45,home
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,"CABLE, SAT, PAY TV/RADIO SVCS",6/27/2023,15.29,home
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,"CABLE, SAT, PAY TV/RADIO SVCS",6/27/2023,15.29,home
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,"CABLE, SAT, PAY TV/RADIO SVCS",7/1/2023,17.92,home
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,"CABLE, SAT, PAY TV/RADIO SVCS",7/27/2023,15.54,home
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,"CABLE, SAT, PAY TV/RADIO SVCS",7/27/2023,15.54,home
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,"CABLE, SAT, PAY TV/RADIO SVCS",7/31/2023,17.97,home
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,CATERERS,6/27/2023,9.19,food
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,CATERERS,5/1/2023,7.07,food
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,CATERERS,5/2/2023,6.44,food
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,CATERERS,5/6/2023,6.48,food
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,CATERERS,5/11/2023,6.21,food
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,CATERERS,5/21/2023,6.39,food
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,CATERERS,5/29/2023,6.99,food
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,CATERERS,6/6/2023,7.21,food
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,CATERERS,6/15/2023,34.3,food
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,CATERERS,6/15/2023,11.88,food
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,CATERERS,6/19/2023,18.25,food
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,CATERERS,7/14/2023,14.46,food
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,CATERERS,7/16/2023,17.09,food
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,CHARITABLE/SOC SERVICE ORGS,5/3/2023,62.58,misc
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,CHARITABLE/SOC SERVICE ORGS,5/3/2023,133.03,misc
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,CHARITABLE/SOC SERVICE ORGS,5/3/2023,133.03,misc
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,CHARITABLE/SOC SERVICE ORGS,5/3/2023,62.58,misc
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,CHARITABLE/SOC SERVICE ORGS,5/13/2023,97.84,misc
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,CHARITABLE/SOC SERVICE ORGS,5/13/2023,97.84,misc
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,CHARITABLE/SOC SERVICE ORGS,5/22/2023,62.44,misc
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,CHARITABLE/SOC SERVICE ORGS,5/22/2023,62.44,misc
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,CHARITABLE/SOC SERVICE ORGS,5/29/2023,24.8,misc
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,CHARITABLE/SOC SERVICE ORGS,5/29/2023,24.8,misc
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,CHARITABLE/SOC SERVICE ORGS,6/28/2023,40.2,misc
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,CHARITABLE/SOC SERVICE ORGS,6/28/2023,99.55,misc
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,CHARITABLE/SOC SERVICE ORGS,6/28/2023,99.55,misc
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,CHARITABLE/SOC SERVICE ORGS,6/28/2023,40.2,misc
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,CHARITABLE/SOC SERVICE ORGS,7/2/2023,12.09,misc
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,CHARITABLE/SOC SERVICE ORGS,7/3/2023,7,misc
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,CHARITABLE/SOC SERVICE ORGS,7/5/2023,99.39,misc
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,CHARITABLE/SOC SERVICE ORGS,7/5/2023,99.39,misc
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,CHARITABLE/SOC SERVICE ORGS,7/17/2023,52.59,misc
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,CHARITABLE/SOC SERVICE ORGS,7/17/2023,52.59,misc
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,CHARITABLE/SOC SERVICE ORGS,7/16/2023,28.93,misc
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,CHARITABLE/SOC SERVICE ORGS,7/16/2023,28.93,misc
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,CHARITABLE/SOC SERVICE ORGS,7/16/2023,28.93,misc
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,CHARITABLE/SOC SERVICE ORGS,7/16/2023,28.93,misc
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,CHARITABLE/SOC SERVICE ORGS,6/5/2023,12.55,misc
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,CHARITABLE/SOC SERVICE ORGS,6/6/2023,8.74,misc
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,CHARITABLE/SOC SERVICE ORGS,7/8/2023,24.51,misc
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,CHARITABLE/SOC SERVICE ORGS,7/27/2023,3.24,misc
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,CHARITABLE/SOC SERVICE ORGS,7/31/2023,11.92,misc
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,CHARITABLE/SOC SERVICE ORGS,7/5/2023,3.82,misc
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,CHARITABLE/SOC SERVICE ORGS,7/5/2023,3.82,misc
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,CHARITABLE/SOC SERVICE ORGS,7/26/2023,25.81,misc
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,CHILDREN/INFANTS WEAR STORES,7/26/2023,48.66,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,CIGAR STORES/STANDS,7/29/2023,7.73,food
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,COMMERCIAL EQUIPMENT - DEFAULT,6/11/2023,2.39,N/A
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,COMMERCIAL EQUIPMENT - DEFAULT,6/11/2023,2.39,N/A
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,COMPUTER SOFTWARE STORES,5/29/2023,8.67,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,COMPUTER SOFTWARE STORES,6/29/2023,8.92,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,COMPUTER SOFTWARE STORES,7/29/2023,9.01,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,COMPUTER SOFTWARE STORES,5/27/2023,1.97,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,COMPUTER SOFTWARE STORES,5/27/2023,1.97,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,COMPUTER SOFTWARE STORES,6/27/2023,2.03,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,COMPUTER SOFTWARE STORES,6/27/2023,2.03,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,COMPUTER SOFTWARE STORES,7/27/2023,2.06,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,COMPUTER SOFTWARE STORES,7/27/2023,2.06,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,CONTINUITY/SUBSCRIPTION MERCHT,5/13/2023,11.28,entertainment
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,CONTINUITY/SUBSCRIPTION MERCHT,5/13/2023,11.28,entertainment
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,CONTINUITY/SUBSCRIPTION MERCHT,6/13/2023,11.33,entertainment
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,CONTINUITY/SUBSCRIPTION MERCHT,6/13/2023,11.33,entertainment
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,CONTINUITY/SUBSCRIPTION MERCHT,7/13/2023,11.69,entertainment
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,CONTINUITY/SUBSCRIPTION MERCHT,7/13/2023,11.69,entertainment
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,CONTINUITY/SUBSCRIPTION MERCHT,5/14/2023,6.26,entertainment
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,CONTINUITY/SUBSCRIPTION MERCHT,5/14/2023,6.26,entertainment
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,CONTINUITY/SUBSCRIPTION MERCHT,6/14/2023,6.3,entertainment
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,CONTINUITY/SUBSCRIPTION MERCHT,6/14/2023,6.3,entertainment
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,CONTINUITY/SUBSCRIPTION MERCHT,7/14/2023,6.56,entertainment
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,CONTINUITY/SUBSCRIPTION MERCHT,7/14/2023,6.56,entertainment
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,CONTINUITY/SUBSCRIPTION MERCHT,5/15/2023,11.28,entertainment
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,CONTINUITY/SUBSCRIPTION MERCHT,5/15/2023,11.28,entertainment
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,CONTINUITY/SUBSCRIPTION MERCHT,5/19/2023,9.98,entertainment
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,CONTINUITY/SUBSCRIPTION MERCHT,5/19/2023,9.98,entertainment
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,CONTINUITY/SUBSCRIPTION MERCHT,6/15/2023,11.42,entertainment
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,CONTINUITY/SUBSCRIPTION MERCHT,6/15/2023,11.42,entertainment
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,CONTINUITY/SUBSCRIPTION MERCHT,6/19/2023,10.27,entertainment
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,CONTINUITY/SUBSCRIPTION MERCHT,6/19/2023,10.27,entertainment
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,CONTINUITY/SUBSCRIPTION MERCHT,7/15/2023,11.82,entertainment
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,CONTINUITY/SUBSCRIPTION MERCHT,7/15/2023,11.82,entertainment
+transactions,5a73582adf954cf6b3db6cc97yedood7,Sensible Spenders,GBP,CONTINUITY/SUBSCRIPTION MERCHT,5/27/2023,11.15,entertainment
+transactions,5a73582adf954cf6b3db6cc97yedood7,Sensible Spenders,GBP,CONTINUITY/SUBSCRIPTION MERCHT,5/27/2023,11.15,entertainment
+transactions,5a73582adf954cf6b3db6cc97yedood7,Sensible Spenders,GBP,CONTINUITY/SUBSCRIPTION MERCHT,6/27/2023,11.46,entertainment
+transactions,5a73582adf954cf6b3db6cc97yedood7,Sensible Spenders,GBP,CONTINUITY/SUBSCRIPTION MERCHT,6/27/2023,11.46,entertainment
+transactions,5a73582adf954cf6b3db6cc97yedood7,Sensible Spenders,GBP,CONTINUITY/SUBSCRIPTION MERCHT,7/27/2023,11.65,entertainment
+transactions,5a73582adf954cf6b3db6cc97yedood7,Sensible Spenders,GBP,CONTINUITY/SUBSCRIPTION MERCHT,7/27/2023,11.65,entertainment
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,CONTINUITY/SUBSCRIPTION MERCHT,5/18/2023,14.99,entertainment
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,CONTINUITY/SUBSCRIPTION MERCHT,5/18/2023,14.99,entertainment
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,CONTINUITY/SUBSCRIPTION MERCHT,6/18/2023,14.99,entertainment
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,CONTINUITY/SUBSCRIPTION MERCHT,6/18/2023,14.99,entertainment
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,CONTINUITY/SUBSCRIPTION MERCHT,7/18/2023,14.99,entertainment
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,CONTINUITY/SUBSCRIPTION MERCHT,7/18/2023,14.99,entertainment
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,CONTINUITY/SUBSCRIPTION MERCHT,7/29/2023,122.45,entertainment
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,CONTINUITY/SUBSCRIPTION MERCHT,7/29/2023,122.45,entertainment
+transactions,5a73582adf954cf6b3db6cc97yedood7,Sensible Spenders,GBP,COURIER SERVICES,6/6/2023,36.31,misc
+transactions,5a73582adf954cf6b3db6cc97yedood7,Sensible Spenders,GBP,COURIER SERVICES,6/6/2023,36.31,misc
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,DENTISTS/ORTHODONTISTS,6/14/2023,32.58,wellness
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,DEPARTMENT STORES,5/14/2023,9.41,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,DEPARTMENT STORES,5/14/2023,11.92,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,DEPARTMENT STORES,7/15/2023,38.79,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,DEPARTMENT STORES,7/25/2023,9.79,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,DIGITAL GOODS BOOKSMOVIEMUSIC,5/29/2023,12.39,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,DIGITAL GOODS BOOKSMOVIEMUSIC,6/29/2023,12.75,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,DIGITAL GOODS BOOKSMOVIEMUSIC,7/25/2023,77.31,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,DIGITAL GOODS BOOKSMOVIEMUSIC,7/29/2023,12.88,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,DIGITAL GOODS BOOKSMOVIEMUSIC,5/5/2023,13.85,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,DIGITAL GOODS BOOKSMOVIEMUSIC,5/27/2023,4.95,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,DIGITAL GOODS BOOKSMOVIEMUSIC,5/27/2023,4.95,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,DIGITAL GOODS BOOKSMOVIEMUSIC,6/5/2023,13.8,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,DIGITAL GOODS BOOKSMOVIEMUSIC,6/27/2023,5.09,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,DIGITAL GOODS BOOKSMOVIEMUSIC,6/27/2023,5.09,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,DIGITAL GOODS BOOKSMOVIEMUSIC,7/5/2023,14,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,DIGITAL GOODS BOOKSMOVIEMUSIC,7/27/2023,5.17,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,DIGITAL GOODS BOOKSMOVIEMUSIC,7/27/2023,5.17,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,DIGITAL GOODS BOOKSMOVIEMUSIC,5/5/2023,5.32,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,DIGITAL GOODS BOOKSMOVIEMUSIC,5/9/2023,2.31,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,DIGITAL GOODS BOOKSMOVIEMUSIC,6/9/2023,2.32,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,DIGITAL GOODS BOOKSMOVIEMUSIC,7/9/2023,2.33,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,DIGITAL GOODS GAMES,5/27/2023,12.39,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,DIGITAL GOODS GAMES,7/5/2023,7.63,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,DISCOUNT STORES,6/11/2023,4.51,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,DRUG STORES & PHARMACIES,5/3/2023,0.15,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,DRUG STORES & PHARMACIES,5/3/2023,12.72,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,DRUG STORES & PHARMACIES,5/27/2023,27.11,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,DRUG STORES & PHARMACIES,7/8/2023,4.5,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,DRUG STORES & PHARMACIES,7/13/2023,24.69,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,DRUG STORES & PHARMACIES,7/23/2023,7.73,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,DRUG STORES & PHARMACIES,7/27/2023,23.29,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,DRUG STORES & PHARMACIES,5/23/2023,6.24,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,DRUG STORES & PHARMACIES,5/25/2023,26.22,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,DRUG STORES & PHARMACIES,6/12/2023,7.53,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,DRUG STORES & PHARMACIES,7/7/2023,28.1,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,DRUG STORES & PHARMACIES,7/13/2023,6.83,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,DRUG STORES & PHARMACIES,7/22/2023,47.03,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,DRUG STORES & PHARMACIES,5/14/2023,47.19,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,DRUG STORES & PHARMACIES,5/21/2023,6.12,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,DRUG STORES & PHARMACIES,6/14/2023,2.01,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,DRUG STORES & PHARMACIES,7/28/2023,16.12,shopping
+transactions,5a73582adf954cf6b3db6cc97yedood7,Sensible Spenders,GBP,DRUG STORES & PHARMACIES,5/2/2023,6.28,shopping
+transactions,5a73582adf954cf6b3db6cc97yedood7,Sensible Spenders,GBP,DRUG STORES & PHARMACIES,5/13/2023,6.61,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,ELECTRONICS STORES,6/15/2023,1.27,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,ELECTRONICS STORES,6/15/2023,1.27,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,ELECTRONICS STORES,6/29/2023,62.51,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,ELECTRONICS STORES,6/29/2023,62.51,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,FAMILY CLOTHING STORES,6/4/2023,84.98,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,FAMILY CLOTHING STORES,6/26/2023,48.42,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,FAMILY CLOTHING STORES,7/13/2023,5.2,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,FAMILY CLOTHING STORES,7/14/2023,79.64,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,FAMILY CLOTHING STORES,7/24/2023,50.98,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,FAST FOOD RESTAURANTS,5/9/2023,16.66,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,FAST FOOD RESTAURANTS,5/9/2023,14.53,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,FAST FOOD RESTAURANTS,5/20/2023,14.67,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,FAST FOOD RESTAURANTS,5/23/2023,10.67,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,FAST FOOD RESTAURANTS,5/30/2023,123.36,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,FAST FOOD RESTAURANTS,6/1/2023,28.63,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,FAST FOOD RESTAURANTS,7/2/2023,15.28,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,FAST FOOD RESTAURANTS,7/2/2023,15.28,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,FAST FOOD RESTAURANTS,7/13/2023,12.34,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,FAST FOOD RESTAURANTS,7/23/2023,20.13,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,FAST FOOD RESTAURANTS,7/23/2023,30.88,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,FAST FOOD RESTAURANTS,7/26/2023,10.52,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,FAST FOOD RESTAURANTS,7/26/2023,10.52,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,FAST FOOD RESTAURANTS,5/10/2023,10.87,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,FAST FOOD RESTAURANTS,5/10/2023,10.87,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,FAST FOOD RESTAURANTS,5/12/2023,13.39,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,FAST FOOD RESTAURANTS,5/12/2023,13.39,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,FAST FOOD RESTAURANTS,5/25/2023,11.96,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,FAST FOOD RESTAURANTS,5/25/2023,11.96,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,FAST FOOD RESTAURANTS,6/23/2023,6.74,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,FAST FOOD RESTAURANTS,6/23/2023,6.74,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,FAST FOOD RESTAURANTS,6/23/2023,8.35,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,FAST FOOD RESTAURANTS,6/23/2023,8.35,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,FAST FOOD RESTAURANTS,6/30/2023,13.42,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,FAST FOOD RESTAURANTS,6/30/2023,8.35,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,FAST FOOD RESTAURANTS,6/30/2023,13.42,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,FAST FOOD RESTAURANTS,7/7/2023,9.59,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,FAST FOOD RESTAURANTS,7/7/2023,9.59,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,FAST FOOD RESTAURANTS,7/15/2023,5.26,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,FAST FOOD RESTAURANTS,5/7/2023,27.59,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,FAST FOOD RESTAURANTS,5/9/2023,23.25,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,FAST FOOD RESTAURANTS,5/14/2023,22.4,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,FAST FOOD RESTAURANTS,5/19/2023,19.44,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,FAST FOOD RESTAURANTS,5/28/2023,25.59,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,FAST FOOD RESTAURANTS,6/9/2023,17.94,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,FAST FOOD RESTAURANTS,6/17/2023,23.97,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,FAST FOOD RESTAURANTS,6/24/2023,25.46,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,FAST FOOD RESTAURANTS,6/26/2023,26.6,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,FAST FOOD RESTAURANTS,7/1/2023,27.31,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,FAST FOOD RESTAURANTS,7/9/2023,32.97,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,FAST FOOD RESTAURANTS,7/18/2023,12.4,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,FAST FOOD RESTAURANTS,7/18/2023,1.84,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,FAST FOOD RESTAURANTS,7/23/2023,29.09,shopping
+transactions,5a73582adf954cf6b3db6cc97yedood7,Sensible Spenders,GBP,FAST FOOD RESTAURANTS,5/17/2023,10.65,shopping
+transactions,5a73582adf954cf6b3db6cc97yedood7,Sensible Spenders,GBP,FAST FOOD RESTAURANTS,5/25/2023,19.96,shopping
+transactions,5a73582adf954cf6b3db6cc97yedood7,Sensible Spenders,GBP,FAST FOOD RESTAURANTS,6/17/2023,18.57,shopping
+transactions,5a73582adf954cf6b3db6cc97yedood7,Sensible Spenders,GBP,FAST FOOD RESTAURANTS,6/18/2023,44.96,shopping
+transactions,5a73582adf954cf6b3db6cc97yedood7,Sensible Spenders,GBP,FAST FOOD RESTAURANTS,6/26/2023,28.39,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,FAST FOOD RESTAURANTS,5/3/2023,2.5,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,FAST FOOD RESTAURANTS,5/26/2023,76.38,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,FAST FOOD RESTAURANTS,5/26/2023,76.38,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,FAST FOOD RESTAURANTS,6/19/2023,5.78,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,FAST FOOD RESTAURANTS,6/19/2023,5.78,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,FAST FOOD RESTAURANTS,6/25/2023,25.77,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,FAST FOOD RESTAURANTS,6/25/2023,25.77,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,FAST FOOD RESTAURANTS,6/30/2023,13.94,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,FAST FOOD RESTAURANTS,6/30/2023,3.8,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,FAST FOOD RESTAURANTS,6/30/2023,3.8,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,FAST FOOD RESTAURANTS,6/30/2023,13.94,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,FAST FOOD RESTAURANTS,7/6/2023,8.28,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,FAST FOOD RESTAURANTS,7/6/2023,8.28,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,FAST FOOD RESTAURANTS,7/6/2023,27.39,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,FAST FOOD RESTAURANTS,7/9/2023,7.07,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,FAST FOOD RESTAURANTS,7/9/2023,7.07,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,FAST FOOD RESTAURANTS,7/18/2023,24.54,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,FAST FOOD RESTAURANTS,7/21/2023,6.5,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,FAST FOOD RESTAURANTS,7/31/2023,22.94,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,FLORISTS,5/6/2023,36.7,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,FLORISTS,5/6/2023,36.7,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,FLORISTS,6/3/2023,36.4,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,FLORISTS,6/3/2023,36.4,shopping
+transactions,5a73582adf954cf6b3db6cc97yedood7,Sensible Spenders,GBP,FREEZER/MEAT LOCKERS,6/17/2023,14.88,shopping
+transactions,5a73582adf954cf6b3db6cc97yedood7,Sensible Spenders,GBP,FREEZER/MEAT LOCKERS,6/17/2023,14.88,shopping
+transactions,5a73582adf954cf6b3db6cc97yedood7,Sensible Spenders,GBP,FREEZER/MEAT LOCKERS,6/28/2023,36.89,shopping
+transactions,5a73582adf954cf6b3db6cc97yedood7,Sensible Spenders,GBP,FREEZER/MEAT LOCKERS,6/28/2023,36.89,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,"GIFT, CARD, NOVELTY STORES",5/3/2023,29.67,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,"GIFT, CARD, NOVELTY STORES",5/8/2023,37.95,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,"GIFT, CARD, NOVELTY STORES",5/8/2023,37.95,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,"GIFT, CARD, NOVELTY STORES",6/4/2023,3.23,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,"GIFT, CARD, NOVELTY STORES",7/6/2023,14.01,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,"GIFT, CARD, NOVELTY STORES",7/21/2023,26.57,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,"GIFT, CARD, NOVELTY STORES",7/22/2023,10.76,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,"GIFT, CARD, NOVELTY STORES",7/22/2023,25.99,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,"GIFT, CARD, NOVELTY STORES",5/16/2023,9.38,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,"GIFT, CARD, NOVELTY STORES",6/30/2023,8.23,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,"GIFT, CARD, NOVELTY STORES",7/16/2023,13.15,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,"GIFT, CARD, NOVELTY STORES",7/16/2023,13.15,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,GOV'T SERV - DEFAULT,5/31/2023,3.92,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,GOV'T SERV - DEFAULT,6/13/2023,11.66,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,GOV'T SERV - DEFAULT,6/25/2023,38.27,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,GROCERY STORES/SUPERMARKETS,5/3/2023,4.57,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,GROCERY STORES/SUPERMARKETS,5/3/2023,22.06,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,GROCERY STORES/SUPERMARKETS,5/3/2023,7.1,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,GROCERY STORES/SUPERMARKETS,5/3/2023,40.79,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,GROCERY STORES/SUPERMARKETS,5/5/2023,21.73,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,GROCERY STORES/SUPERMARKETS,5/9/2023,12.8,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,GROCERY STORES/SUPERMARKETS,5/9/2023,18.56,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,GROCERY STORES/SUPERMARKETS,5/9/2023,19.01,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,GROCERY STORES/SUPERMARKETS,5/13/2023,80.65,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,GROCERY STORES/SUPERMARKETS,5/17/2023,38.63,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,GROCERY STORES/SUPERMARKETS,5/18/2023,17.02,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,GROCERY STORES/SUPERMARKETS,5/18/2023,96.84,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,GROCERY STORES/SUPERMARKETS,5/20/2023,12.02,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,GROCERY STORES/SUPERMARKETS,5/26/2023,4.96,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,GROCERY STORES/SUPERMARKETS,5/28/2023,46.21,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,GROCERY STORES/SUPERMARKETS,5/30/2023,45.62,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,GROCERY STORES/SUPERMARKETS,6/4/2023,36.89,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,GROCERY STORES/SUPERMARKETS,6/4/2023,5.08,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,GROCERY STORES/SUPERMARKETS,6/7/2023,94.73,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,GROCERY STORES/SUPERMARKETS,6/9/2023,12.88,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,GROCERY STORES/SUPERMARKETS,6/10/2023,11.4,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,GROCERY STORES/SUPERMARKETS,6/12/2023,170.42,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,GROCERY STORES/SUPERMARKETS,6/15/2023,4.7,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,GROCERY STORES/SUPERMARKETS,6/18/2023,42.78,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,GROCERY STORES/SUPERMARKETS,6/21/2023,8.97,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,GROCERY STORES/SUPERMARKETS,6/21/2023,73.73,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,GROCERY STORES/SUPERMARKETS,6/22/2023,44.5,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,GROCERY STORES/SUPERMARKETS,6/22/2023,74.33,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,GROCERY STORES/SUPERMARKETS,6/26/2023,38.16,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,GROCERY STORES/SUPERMARKETS,6/30/2023,11.17,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,GROCERY STORES/SUPERMARKETS,6/30/2023,5.07,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,GROCERY STORES/SUPERMARKETS,6/30/2023,8.23,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,GROCERY STORES/SUPERMARKETS,7/3/2023,81.92,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,GROCERY STORES/SUPERMARKETS,7/3/2023,26.8,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,GROCERY STORES/SUPERMARKETS,7/4/2023,10.75,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,GROCERY STORES/SUPERMARKETS,7/6/2023,13.63,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,GROCERY STORES/SUPERMARKETS,7/6/2023,45.21,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,GROCERY STORES/SUPERMARKETS,7/9/2023,15.24,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,GROCERY STORES/SUPERMARKETS,7/9/2023,14.78,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,GROCERY STORES/SUPERMARKETS,7/11/2023,10.88,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,GROCERY STORES/SUPERMARKETS,7/12/2023,61.42,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,GROCERY STORES/SUPERMARKETS,7/13/2023,14.95,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,GROCERY STORES/SUPERMARKETS,7/14/2023,18.53,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,GROCERY STORES/SUPERMARKETS,7/14/2023,8.02,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,GROCERY STORES/SUPERMARKETS,7/18/2023,16.34,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,GROCERY STORES/SUPERMARKETS,7/21/2023,72.36,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,GROCERY STORES/SUPERMARKETS,7/22/2023,39.44,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,GROCERY STORES/SUPERMARKETS,7/23/2023,31.36,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,GROCERY STORES/SUPERMARKETS,7/23/2023,84.02,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,GROCERY STORES/SUPERMARKETS,7/26/2023,16.65,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,GROCERY STORES/SUPERMARKETS,7/27/2023,38.24,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,GROCERY STORES/SUPERMARKETS,7/27/2023,73.42,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,GROCERY STORES/SUPERMARKETS,7/28/2023,5.2,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,GROCERY STORES/SUPERMARKETS,5/2/2023,27.67,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,GROCERY STORES/SUPERMARKETS,5/2/2023,17.91,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,GROCERY STORES/SUPERMARKETS,5/3/2023,4,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,GROCERY STORES/SUPERMARKETS,5/4/2023,6.23,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,GROCERY STORES/SUPERMARKETS,5/4/2023,17.31,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,GROCERY STORES/SUPERMARKETS,5/5/2023,3.47,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,GROCERY STORES/SUPERMARKETS,5/5/2023,7.18,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,GROCERY STORES/SUPERMARKETS,5/6/2023,3.35,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,GROCERY STORES/SUPERMARKETS,5/6/2023,111.52,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,GROCERY STORES/SUPERMARKETS,5/10/2023,13.41,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,GROCERY STORES/SUPERMARKETS,5/12/2023,19.33,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,GROCERY STORES/SUPERMARKETS,5/15/2023,26.4,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,GROCERY STORES/SUPERMARKETS,5/15/2023,10.29,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,GROCERY STORES/SUPERMARKETS,5/16/2023,27.14,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,GROCERY STORES/SUPERMARKETS,5/17/2023,16.56,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,GROCERY STORES/SUPERMARKETS,5/18/2023,9.82,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,GROCERY STORES/SUPERMARKETS,5/19/2023,7.5,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,GROCERY STORES/SUPERMARKETS,5/19/2023,12.48,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,GROCERY STORES/SUPERMARKETS,5/19/2023,16.18,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,GROCERY STORES/SUPERMARKETS,5/20/2023,28.78,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,GROCERY STORES/SUPERMARKETS,5/21/2023,11.8,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,GROCERY STORES/SUPERMARKETS,5/23/2023,70.82,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,GROCERY STORES/SUPERMARKETS,5/25/2023,4.49,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,GROCERY STORES/SUPERMARKETS,5/25/2023,13.35,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,GROCERY STORES/SUPERMARKETS,5/26/2023,31.59,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,GROCERY STORES/SUPERMARKETS,5/26/2023,18.26,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,GROCERY STORES/SUPERMARKETS,5/27/2023,143.83,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,GROCERY STORES/SUPERMARKETS,5/30/2023,78.13,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,GROCERY STORES/SUPERMARKETS,5/31/2023,4.41,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,GROCERY STORES/SUPERMARKETS,6/1/2023,54.77,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,GROCERY STORES/SUPERMARKETS,6/2/2023,18.49,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,GROCERY STORES/SUPERMARKETS,6/3/2023,80.89,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,GROCERY STORES/SUPERMARKETS,6/4/2023,3.01,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,GROCERY STORES/SUPERMARKETS,6/6/2023,88.86,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,GROCERY STORES/SUPERMARKETS,6/7/2023,12.45,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,GROCERY STORES/SUPERMARKETS,6/7/2023,9.79,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,GROCERY STORES/SUPERMARKETS,6/8/2023,4.06,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,GROCERY STORES/SUPERMARKETS,6/9/2023,12,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,GROCERY STORES/SUPERMARKETS,6/10/2023,26.13,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,GROCERY STORES/SUPERMARKETS,6/10/2023,4.71,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,GROCERY STORES/SUPERMARKETS,6/11/2023,27.45,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,GROCERY STORES/SUPERMARKETS,6/12/2023,2.77,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,GROCERY STORES/SUPERMARKETS,6/13/2023,35.49,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,GROCERY STORES/SUPERMARKETS,6/13/2023,5.74,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,GROCERY STORES/SUPERMARKETS,6/15/2023,32.9,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,GROCERY STORES/SUPERMARKETS,6/17/2023,13.11,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,GROCERY STORES/SUPERMARKETS,6/20/2023,2.57,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,GROCERY STORES/SUPERMARKETS,6/22/2023,61.66,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,GROCERY STORES/SUPERMARKETS,6/25/2023,9.25,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,GROCERY STORES/SUPERMARKETS,6/27/2023,10.2,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,GROCERY STORES/SUPERMARKETS,6/29/2023,15.12,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,GROCERY STORES/SUPERMARKETS,6/30/2023,11.28,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,GROCERY STORES/SUPERMARKETS,6/30/2023,3.47,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,GROCERY STORES/SUPERMARKETS,7/2/2023,59.31,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,GROCERY STORES/SUPERMARKETS,7/3/2023,69.79,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,GROCERY STORES/SUPERMARKETS,7/4/2023,78.26,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,GROCERY STORES/SUPERMARKETS,7/5/2023,16.5,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,GROCERY STORES/SUPERMARKETS,7/6/2023,6.88,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,GROCERY STORES/SUPERMARKETS,7/7/2023,2.17,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,GROCERY STORES/SUPERMARKETS,7/8/2023,34.12,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,GROCERY STORES/SUPERMARKETS,7/9/2023,17.93,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,GROCERY STORES/SUPERMARKETS,7/9/2023,15.87,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,GROCERY STORES/SUPERMARKETS,7/10/2023,21.69,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,GROCERY STORES/SUPERMARKETS,7/10/2023,27.81,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,GROCERY STORES/SUPERMARKETS,7/11/2023,12.68,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,GROCERY STORES/SUPERMARKETS,7/13/2023,14.28,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,GROCERY STORES/SUPERMARKETS,7/13/2023,20.74,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,GROCERY STORES/SUPERMARKETS,7/14/2023,35.48,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,GROCERY STORES/SUPERMARKETS,7/14/2023,4.6,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,GROCERY STORES/SUPERMARKETS,7/15/2023,119.21,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,GROCERY STORES/SUPERMARKETS,7/18/2023,16.53,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,GROCERY STORES/SUPERMARKETS,7/19/2023,12.08,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,GROCERY STORES/SUPERMARKETS,7/20/2023,20.57,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,GROCERY STORES/SUPERMARKETS,7/20/2023,4.38,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,GROCERY STORES/SUPERMARKETS,7/22/2023,37.56,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,GROCERY STORES/SUPERMARKETS,5/2/2023,2.2,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,GROCERY STORES/SUPERMARKETS,5/2/2023,47.18,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,GROCERY STORES/SUPERMARKETS,5/5/2023,27.96,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,GROCERY STORES/SUPERMARKETS,5/5/2023,43.68,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,GROCERY STORES/SUPERMARKETS,5/7/2023,4.86,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,GROCERY STORES/SUPERMARKETS,5/7/2023,4.86,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,GROCERY STORES/SUPERMARKETS,5/7/2023,14.84,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,GROCERY STORES/SUPERMARKETS,5/8/2023,4.1,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,GROCERY STORES/SUPERMARKETS,5/8/2023,4.1,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,GROCERY STORES/SUPERMARKETS,5/10/2023,97.83,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,GROCERY STORES/SUPERMARKETS,5/10/2023,8.66,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,GROCERY STORES/SUPERMARKETS,5/14/2023,51.78,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,GROCERY STORES/SUPERMARKETS,5/14/2023,37.16,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,GROCERY STORES/SUPERMARKETS,5/14/2023,19,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,GROCERY STORES/SUPERMARKETS,5/14/2023,2.5,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,GROCERY STORES/SUPERMARKETS,5/15/2023,77.77,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,GROCERY STORES/SUPERMARKETS,5/20/2023,53.87,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,GROCERY STORES/SUPERMARKETS,5/21/2023,28.6,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,GROCERY STORES/SUPERMARKETS,5/21/2023,23.86,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,GROCERY STORES/SUPERMARKETS,5/21/2023,61.01,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,GROCERY STORES/SUPERMARKETS,5/21/2023,45.32,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,GROCERY STORES/SUPERMARKETS,5/24/2023,106.92,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,GROCERY STORES/SUPERMARKETS,5/26/2023,44.58,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,GROCERY STORES/SUPERMARKETS,5/28/2023,164.73,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,GROCERY STORES/SUPERMARKETS,5/28/2023,70.74,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,GROCERY STORES/SUPERMARKETS,5/28/2023,30.28,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,GROCERY STORES/SUPERMARKETS,5/28/2023,24.1,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,GROCERY STORES/SUPERMARKETS,5/28/2023,0.37,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,GROCERY STORES/SUPERMARKETS,5/29/2023,67.38,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,GROCERY STORES/SUPERMARKETS,6/3/2023,53.59,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,GROCERY STORES/SUPERMARKETS,6/3/2023,8.66,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,GROCERY STORES/SUPERMARKETS,6/3/2023,40.42,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,GROCERY STORES/SUPERMARKETS,6/4/2023,54.12,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,GROCERY STORES/SUPERMARKETS,6/4/2023,120.63,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,GROCERY STORES/SUPERMARKETS,6/8/2023,14.42,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,GROCERY STORES/SUPERMARKETS,6/11/2023,30.53,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,GROCERY STORES/SUPERMARKETS,6/11/2023,22.19,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,GROCERY STORES/SUPERMARKETS,6/11/2023,53.56,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,GROCERY STORES/SUPERMARKETS,6/12/2023,81.3,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,GROCERY STORES/SUPERMARKETS,6/13/2023,1.26,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,GROCERY STORES/SUPERMARKETS,6/13/2023,0.95,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,GROCERY STORES/SUPERMARKETS,6/13/2023,15.76,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,GROCERY STORES/SUPERMARKETS,6/14/2023,19.6,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,GROCERY STORES/SUPERMARKETS,6/14/2023,105.38,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,GROCERY STORES/SUPERMARKETS,6/16/2023,28.38,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,GROCERY STORES/SUPERMARKETS,6/20/2023,81.39,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,GROCERY STORES/SUPERMARKETS,6/27/2023,51.91,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,GROCERY STORES/SUPERMARKETS,6/28/2023,134.85,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,GROCERY STORES/SUPERMARKETS,7/6/2023,109.95,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,GROCERY STORES/SUPERMARKETS,7/7/2023,37.12,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,GROCERY STORES/SUPERMARKETS,7/13/2023,50.57,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,GROCERY STORES/SUPERMARKETS,7/16/2023,200.52,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,GROCERY STORES/SUPERMARKETS,7/19/2023,41.25,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,GROCERY STORES/SUPERMARKETS,7/26/2023,8.58,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,GROCERY STORES/SUPERMARKETS,7/26/2023,10,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,GROCERY STORES/SUPERMARKETS,7/29/2023,104.28,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,GROCERY STORES/SUPERMARKETS,7/31/2023,27.39,shopping
+transactions,5a73582adf954cf6b3db6cc97yedood7,Sensible Spenders,GBP,GROCERY STORES/SUPERMARKETS,5/11/2023,16.68,shopping
+transactions,5a73582adf954cf6b3db6cc97yedood7,Sensible Spenders,GBP,GROCERY STORES/SUPERMARKETS,5/14/2023,49.57,shopping
+transactions,5a73582adf954cf6b3db6cc97yedood7,Sensible Spenders,GBP,GROCERY STORES/SUPERMARKETS,5/16/2023,91.8,shopping
+transactions,5a73582adf954cf6b3db6cc97yedood7,Sensible Spenders,GBP,GROCERY STORES/SUPERMARKETS,5/21/2023,107.26,shopping
+transactions,5a73582adf954cf6b3db6cc97yedood7,Sensible Spenders,GBP,GROCERY STORES/SUPERMARKETS,5/23/2023,141.49,shopping
+transactions,5a73582adf954cf6b3db6cc97yedood7,Sensible Spenders,GBP,GROCERY STORES/SUPERMARKETS,5/25/2023,121.64,shopping
+transactions,5a73582adf954cf6b3db6cc97yedood7,Sensible Spenders,GBP,GROCERY STORES/SUPERMARKETS,6/3/2023,5.4,shopping
+transactions,5a73582adf954cf6b3db6cc97yedood7,Sensible Spenders,GBP,GROCERY STORES/SUPERMARKETS,6/3/2023,72.81,shopping
+transactions,5a73582adf954cf6b3db6cc97yedood7,Sensible Spenders,GBP,GROCERY STORES/SUPERMARKETS,6/14/2023,101.95,shopping
+transactions,5a73582adf954cf6b3db6cc97yedood7,Sensible Spenders,GBP,GROCERY STORES/SUPERMARKETS,6/18/2023,54.62,shopping
+transactions,5a73582adf954cf6b3db6cc97yedood7,Sensible Spenders,GBP,GROCERY STORES/SUPERMARKETS,6/25/2023,60.92,shopping
+transactions,5a73582adf954cf6b3db6cc97yedood7,Sensible Spenders,GBP,GROCERY STORES/SUPERMARKETS,6/28/2023,20.68,shopping
+transactions,5a73582adf954cf6b3db6cc97yedood7,Sensible Spenders,GBP,GROCERY STORES/SUPERMARKETS,6/28/2023,139.59,shopping
+transactions,5a73582adf954cf6b3db6cc97yedood7,Sensible Spenders,GBP,GROCERY STORES/SUPERMARKETS,7/2/2023,53.03,shopping
+transactions,5a73582adf954cf6b3db6cc97yedood7,Sensible Spenders,GBP,GROCERY STORES/SUPERMARKETS,7/4/2023,51.38,shopping
+transactions,5a73582adf954cf6b3db6cc97yedood7,Sensible Spenders,GBP,GROCERY STORES/SUPERMARKETS,7/9/2023,99.18,shopping
+transactions,5a73582adf954cf6b3db6cc97yedood7,Sensible Spenders,GBP,GROCERY STORES/SUPERMARKETS,7/13/2023,83.77,shopping
+transactions,5a73582adf954cf6b3db6cc97yedood7,Sensible Spenders,GBP,GROCERY STORES/SUPERMARKETS,7/13/2023,20.09,shopping
+transactions,5a73582adf954cf6b3db6cc97yedood7,Sensible Spenders,GBP,GROCERY STORES/SUPERMARKETS,7/16/2023,1.71,shopping
+transactions,5a73582adf954cf6b3db6cc97yedood7,Sensible Spenders,GBP,GROCERY STORES/SUPERMARKETS,7/16/2023,76.11,shopping
+transactions,5a73582adf954cf6b3db6cc97yedood7,Sensible Spenders,GBP,GROCERY STORES/SUPERMARKETS,7/21/2023,78.04,shopping
+transactions,5a73582adf954cf6b3db6cc97yedood7,Sensible Spenders,GBP,GROCERY STORES/SUPERMARKETS,7/31/2023,154.63,shopping
+transactions,5a73582adf954cf6b3db6cc97yedood7,Sensible Spenders,GBP,GROCERY STORES/SUPERMARKETS,7/31/2023,6.51,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,GROCERY STORES/SUPERMARKETS,5/3/2023,36.29,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,GROCERY STORES/SUPERMARKETS,5/16/2023,48.77,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,GROCERY STORES/SUPERMARKETS,5/16/2023,11.66,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,GROCERY STORES/SUPERMARKETS,5/19/2023,32.49,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,GROCERY STORES/SUPERMARKETS,5/30/2023,42.34,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,GROCERY STORES/SUPERMARKETS,6/4/2023,19.58,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,GROCERY STORES/SUPERMARKETS,6/6/2023,34.95,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,GROCERY STORES/SUPERMARKETS,6/8/2023,6.88,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,GROCERY STORES/SUPERMARKETS,6/12/2023,4.95,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,GROCERY STORES/SUPERMARKETS,6/15/2023,48.52,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,GROCERY STORES/SUPERMARKETS,6/17/2023,12.08,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,GROCERY STORES/SUPERMARKETS,6/22/2023,9.99,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,GROCERY STORES/SUPERMARKETS,7/1/2023,19.86,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,GROCERY STORES/SUPERMARKETS,7/11/2023,20.08,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,GROCERY STORES/SUPERMARKETS,7/19/2023,49.82,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,GROCERY STORES/SUPERMARKETS,7/19/2023,36.76,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,GROCERY STORES/SUPERMARKETS,7/23/2023,36.14,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,GROCERY STORES/SUPERMARKETS,7/23/2023,32.72,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,GROCERY STORES/SUPERMARKETS,7/25/2023,2.58,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,GROCERY STORES/SUPERMARKETS,7/28/2023,116.99,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,GROCERY STORES/SUPERMARKETS,7/29/2023,3.35,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,GROCERY STORES/SUPERMARKETS,7/29/2023,54.58,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,GROCERY STORES/SUPERMARKETS,7/29/2023,36.09,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,GROCERY STORES/SUPERMARKETS,7/30/2023,7.28,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,HARDWARE STORES,5/2/2023,27.46,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,HARDWARE STORES,5/16/2023,9.54,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,HARDWARE STORES,5/22/2023,12.3,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,HARDWARE STORES,5/28/2023,14.79,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,HARDWARE STORES,5/30/2023,26.79,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,HARDWARE STORES,6/3/2023,7.36,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,HARDWARE STORES,6/11/2023,15.2,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,HARDWARE STORES,6/25/2023,18.91,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,HARDWARE STORES,6/26/2023,21.8,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,HARDWARE STORES,7/4/2023,21.66,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,HARDWARE STORES,7/9/2023,8.64,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,HOME SUPPLY WAREHOUSE STORES,7/11/2023,32.15,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,JEWELRY STORES,6/3/2023,161.93,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,LARGE DIGITAL GOODS MERCHANT,5/12/2023,10.1,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,LARGE DIGITAL GOODS MERCHANT,5/12/2023,10.1,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,LARGE DIGITAL GOODS MERCHANT,5/19/2023,0.99,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,LARGE DIGITAL GOODS MERCHANT,5/19/2023,0.99,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,LARGE DIGITAL GOODS MERCHANT,6/19/2023,1.02,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,LARGE DIGITAL GOODS MERCHANT,6/19/2023,1.02,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,LARGE DIGITAL GOODS MERCHANT,7/19/2023,1.04,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,LARGE DIGITAL GOODS MERCHANT,7/19/2023,1.04,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,LARGE DIGITAL GOODS MERCHANT,5/4/2023,28.9,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,LARGE DIGITAL GOODS MERCHANT,5/4/2023,28.9,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,LARGE DIGITAL GOODS MERCHANT,6/3/2023,28.81,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,LARGE DIGITAL GOODS MERCHANT,6/3/2023,28.81,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,LARGE DIGITAL GOODS MERCHANT,7/4/2023,29.21,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,LARGE DIGITAL GOODS MERCHANT,7/4/2023,29.21,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,LOCAL COMMUTER TRANSPORT,6/15/2023,12.19,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,LOCAL COMMUTER TRANSPORT,5/3/2023,18.65,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,LOCAL COMMUTER TRANSPORT,5/4/2023,18.76,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,LOCAL COMMUTER TRANSPORT,5/5/2023,15.75,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,LOCAL COMMUTER TRANSPORT,5/10/2023,18.84,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,LOCAL COMMUTER TRANSPORT,5/12/2023,18.84,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,LOCAL COMMUTER TRANSPORT,5/15/2023,2.2,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,LOCAL COMMUTER TRANSPORT,5/18/2023,18.64,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,LOCAL COMMUTER TRANSPORT,5/19/2023,18.62,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,LOCAL COMMUTER TRANSPORT,5/20/2023,4.37,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,LOCAL COMMUTER TRANSPORT,5/22/2023,4.37,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,LOCAL COMMUTER TRANSPORT,5/24/2023,17.74,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,LOCAL COMMUTER TRANSPORT,5/25/2023,17.77,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,LOCAL COMMUTER TRANSPORT,5/26/2023,15.49,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,LOCAL COMMUTER TRANSPORT,5/29/2023,2.17,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,LOCAL COMMUTER TRANSPORT,6/1/2023,18.55,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,LOCAL COMMUTER TRANSPORT,6/2/2023,18.69,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,LOCAL COMMUTER TRANSPORT,6/4/2023,4.39,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,LOCAL COMMUTER TRANSPORT,6/5/2023,16.82,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,LOCAL COMMUTER TRANSPORT,6/7/2023,18.57,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,LOCAL COMMUTER TRANSPORT,6/8/2023,17.82,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,LOCAL COMMUTER TRANSPORT,6/12/2023,12.47,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,LOCAL COMMUTER TRANSPORT,6/12/2023,2.2,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,LOCAL COMMUTER TRANSPORT,6/14/2023,18.82,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,LOCAL COMMUTER TRANSPORT,6/16/2023,15.99,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,LOCAL COMMUTER TRANSPORT,6/18/2023,2.25,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,LOCAL COMMUTER TRANSPORT,6/23/2023,19.14,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,LOCAL COMMUTER TRANSPORT,6/26/2023,24.88,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,LOCAL COMMUTER TRANSPORT,6/26/2023,11.99,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,LOCAL COMMUTER TRANSPORT,6/26/2023,13.01,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,LOCAL COMMUTER TRANSPORT,6/28/2023,19.02,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,LOCAL COMMUTER TRANSPORT,6/30/2023,17.86,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,LOCAL COMMUTER TRANSPORT,7/5/2023,18.99,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,LOCAL COMMUTER TRANSPORT,7/7/2023,18.22,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,LOCAL COMMUTER TRANSPORT,7/7/2023,14.7,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,LOCAL COMMUTER TRANSPORT,7/10/2023,4.5,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,LOCAL COMMUTER TRANSPORT,7/12/2023,8.41,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,LOCAL COMMUTER TRANSPORT,7/13/2023,16.26,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,LOCAL COMMUTER TRANSPORT,7/14/2023,19.58,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,LOCAL COMMUTER TRANSPORT,7/19/2023,19.56,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,LOCAL COMMUTER TRANSPORT,7/20/2023,19.46,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,LOCAL COMMUTER TRANSPORT,7/22/2023,2.26,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,LOCAL COMMUTER TRANSPORT,5/20/2023,18.36,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,LOCAL COMMUTER TRANSPORT,5/24/2023,15.94,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,LOCAL COMMUTER TRANSPORT,5/26/2023,19.2,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,LOCAL COMMUTER TRANSPORT,5/28/2023,12.89,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,LOCAL COMMUTER TRANSPORT,6/5/2023,13.06,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,LOCAL COMMUTER TRANSPORT,6/15/2023,8.13,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,LOCAL COMMUTER TRANSPORT,6/16/2023,12.02,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,LOCAL COMMUTER TRANSPORT,6/17/2023,13.37,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,LOCAL COMMUTER TRANSPORT,6/19/2023,16.45,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,LOCAL COMMUTER TRANSPORT,6/23/2023,13.36,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,LOCAL COMMUTER TRANSPORT,6/25/2023,8.42,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,LOCAL COMMUTER TRANSPORT,6/30/2023,23.31,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,LOCAL COMMUTER TRANSPORT,7/6/2023,18.98,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,LOCAL COMMUTER TRANSPORT,7/10/2023,16.45,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,LOCAL COMMUTER TRANSPORT,7/14/2023,18.4,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,LOCAL COMMUTER TRANSPORT,7/22/2023,13.42,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,LOCAL COMMUTER TRANSPORT,7/27/2023,15.04,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,MED/HEALTH SERVICES - DEF,6/13/2023,88.24,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,MED/HEALTH SERVICES - DEF,6/13/2023,88.24,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,MEMBER CLUBS/SPORT/REC/GOLF,6/5/2023,9.16,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,MEMBER CLUBS/SPORT/REC/GOLF,6/5/2023,6.28,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,MEMBER CLUBS/SPORT/REC/GOLF,6/5/2023,10.17,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,MEMBER ORGANIZATIONS - DEF,6/19/2023,44.34,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,MEN/BOYS CLOTHING/ACC STORES,6/29/2023,121.2,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,MENS/WOMENS CLOTHING STORES,5/9/2023,21.53,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,MENS/WOMENS CLOTHING STORES,6/3/2023,28.85,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,MENS/WOMENS CLOTHING STORES,6/8/2023,212.55,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,MENS/WOMENS CLOTHING STORES,7/27/2023,72.92,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,MENS/WOMENS CLOTHING STORES,7/2/2023,54.74,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,MENS/WOMENS CLOTHING STORES,7/2/2023,54.74,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,MENS/WOMENS CLOTHING STORES,7/9/2023,158.4,shopping
+transactions,5a73582adf954cf6b3db6cc97yedood7,Sensible Spenders,GBP,MENS/WOMENS CLOTHING STORES,6/30/2023,163.38,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,MISC APPAREL/ACCESS STORES,7/13/2023,20.81,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,MISC FOOD STORES - DEFAULT,6/13/2023,1.39,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,MISC FOOD STORES - DEFAULT,6/13/2023,1.39,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,MISC FOOD STORES - DEFAULT,6/20/2023,5.78,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,MISC FOOD STORES - DEFAULT,7/9/2023,1.41,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,MISC FOOD STORES - DEFAULT,7/9/2023,1.41,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,MISC FOOD STORES - DEFAULT,5/6/2023,77.94,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,MISC FOOD STORES - DEFAULT,5/13/2023,66.42,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,MISC FOOD STORES - DEFAULT,6/4/2023,37.43,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,MISC FOOD STORES - DEFAULT,6/20/2023,37.84,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,MISC FOOD STORES - DEFAULT,6/25/2023,10.14,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,MISC FOOD STORES - DEFAULT,6/26/2023,35.34,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,MISC FOOD STORES - DEFAULT,7/7/2023,8.95,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,MISC FOOD STORES - DEFAULT,7/12/2023,67.21,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,MISC FOOD STORES - DEFAULT,5/23/2023,13.71,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,MISC FOOD STORES - DEFAULT,6/20/2023,14.11,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,MISC FOOD STORES - DEFAULT,6/20/2023,5.91,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,MISC FOOD STORES - DEFAULT,7/3/2023,3.67,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,MISC FOOD STORES - DEFAULT,7/18/2023,14.42,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,MISC FOOD STORES - DEFAULT,7/21/2023,6.46,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,MISC FOOD STORES - DEFAULT,7/25/2023,16.37,shopping
+transactions,5a73582adf954cf6b3db6cc97yedood7,Sensible Spenders,GBP,MISC FOOD STORES - DEFAULT,6/23/2023,13.68,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,MISC FOOD STORES - DEFAULT,5/22/2023,14.22,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,MISC FOOD STORES - DEFAULT,5/25/2023,13.72,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,MISC FOOD STORES - DEFAULT,7/15/2023,1.31,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,MISC FOOD STORES - DEFAULT,7/15/2023,8.22,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,MISC FOOD STORES - DEFAULT,7/15/2023,12.6,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,MISC FOOD STORES - DEFAULT,7/15/2023,1.31,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,MISC GENERAL MERCHANDISE,5/5/2023,6.41,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,MISC GENERAL MERCHANDISE,5/5/2023,6.41,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,MISC GENERAL MERCHANDISE,7/19/2023,6.68,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,MISC GENERAL MERCHANDISE,7/19/2023,6.68,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,MISC GENERAL MERCHANDISE,7/3/2023,9.1,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,MISC GENERAL MERCHANDISE,7/18/2023,17.81,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,MISC GENERAL MERCHANDISE,7/21/2023,21.28,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,MISC GENERAL MERCHANDISE,7/24/2023,14.7,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,MISC GENERAL MERCHANDISE,7/25/2023,64.19,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,MISC GENERAL MERCHANDISE,7/26/2023,9.51,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,MISC GENERAL MERCHANDISE,7/29/2023,50.23,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,MISC GENERAL MERCHANDISE,7/31/2023,14.27,shopping
+transactions,5a73582adf954cf6b3db6cc97yedood7,Sensible Spenders,GBP,MISC PERSONAL SERV - DEF,6/24/2023,35.22,shopping
+transactions,5a73582adf954cf6b3db6cc97yedood7,Sensible Spenders,GBP,MISC PERSONAL SERV - DEF,6/24/2023,35.22,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,MISC SPECIALTY RETAIL,5/23/2023,18.95,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,MISC SPECIALTY RETAIL,5/23/2023,18.95,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,MISC SPECIALTY RETAIL,6/12/2023,6.41,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,MISC SPECIALTY RETAIL,6/12/2023,6.41,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,MISC SPECIALTY RETAIL,6/28/2023,38.01,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,MISC SPECIALTY RETAIL,6/28/2023,38.01,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,MISC SPECIALTY RETAIL,7/1/2023,14,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,MISC SPECIALTY RETAIL,7/1/2023,11.46,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,MISC SPECIALTY RETAIL,7/1/2023,14,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,MISC SPECIALTY RETAIL,7/1/2023,11.46,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,MISC SPECIALTY RETAIL,7/4/2023,8.9,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,MISC SPECIALTY RETAIL,7/4/2023,8.9,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,MISC SPECIALTY RETAIL,7/5/2023,15.29,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,MISC SPECIALTY RETAIL,7/13/2023,89.58,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,MISC SPECIALTY RETAIL,7/13/2023,89.58,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,MISC SPECIALTY RETAIL,7/17/2023,83.74,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,MISC SPECIALTY RETAIL,7/17/2023,83.74,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,MISC SPECIALTY RETAIL,7/29/2023,12.88,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,MISC SPECIALTY RETAIL,7/29/2023,12.88,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,MISC SPECIALTY RETAIL,5/3/2023,12.5,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,MISC SPECIALTY RETAIL,5/3/2023,12.5,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,MISC SPECIALTY RETAIL,5/12/2023,63.82,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,MISC SPECIALTY RETAIL,5/12/2023,63.82,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,MISC SPECIALTY RETAIL,5/21/2023,10.68,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,MISC SPECIALTY RETAIL,5/21/2023,10.68,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,MISC SPECIALTY RETAIL,5/24/2023,74.46,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,MISC SPECIALTY RETAIL,5/24/2023,74.46,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,MISC SPECIALTY RETAIL,6/16/2023,7.42,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,MISC SPECIALTY RETAIL,6/16/2023,7.42,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,MISC SPECIALTY RETAIL,6/17/2023,69.35,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,MISC SPECIALTY RETAIL,6/17/2023,69.35,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,MISC SPECIALTY RETAIL,5/9/2023,16.46,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,MISC SPECIALTY RETAIL,5/9/2023,16.46,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,MISC SPECIALTY RETAIL,5/10/2023,11.37,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,MISC SPECIALTY RETAIL,5/10/2023,11.37,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,MISC SPECIALTY RETAIL,5/15/2023,3.14,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,MISC SPECIALTY RETAIL,5/15/2023,3.14,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,MISC SPECIALTY RETAIL,5/17/2023,21.32,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,MISC SPECIALTY RETAIL,5/17/2023,21.32,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,MISC SPECIALTY RETAIL,5/17/2023,30.7,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,MISC SPECIALTY RETAIL,5/17/2023,30.7,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,MISC SPECIALTY RETAIL,5/23/2023,9.32,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,MISC SPECIALTY RETAIL,5/23/2023,9.32,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,MISC SPECIALTY RETAIL,5/25/2023,22.44,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,MISC SPECIALTY RETAIL,5/25/2023,21.18,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,MISC SPECIALTY RETAIL,5/25/2023,22.44,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,MISC SPECIALTY RETAIL,5/25/2023,21.18,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,MISC SPECIALTY RETAIL,5/27/2023,24.78,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,MISC SPECIALTY RETAIL,5/27/2023,24.78,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,MISC SPECIALTY RETAIL,5/31/2023,23.63,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,MISC SPECIALTY RETAIL,5/31/2023,23.63,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,MISC SPECIALTY RETAIL,6/12/2023,22.65,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,MISC SPECIALTY RETAIL,6/12/2023,6.41,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,MISC SPECIALTY RETAIL,6/12/2023,6.41,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,MISC SPECIALTY RETAIL,6/12/2023,22.65,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,MISC SPECIALTY RETAIL,6/12/2023,27.19,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,MISC SPECIALTY RETAIL,6/12/2023,27.19,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,MISC SPECIALTY RETAIL,6/13/2023,7.55,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,MISC SPECIALTY RETAIL,6/13/2023,7.55,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,MISC SPECIALTY RETAIL,6/17/2023,14.12,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,MISC SPECIALTY RETAIL,6/17/2023,14.12,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,MISC SPECIALTY RETAIL,6/20/2023,20.53,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,MISC SPECIALTY RETAIL,6/20/2023,20.53,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,MISC SPECIALTY RETAIL,7/16/2023,24.44,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,MISC SPECIALTY RETAIL,7/16/2023,24.44,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,MISC SPECIALTY RETAIL,7/24/2023,2.57,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,MISC SPECIALTY RETAIL,7/24/2023,6.44,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,MISC SPECIALTY RETAIL,7/24/2023,2.57,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,MISC SPECIALTY RETAIL,7/24/2023,6.44,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,MISC SPECIALTY RETAIL,7/25/2023,6.43,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,MISC SPECIALTY RETAIL,7/25/2023,6.43,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,MISC SPECIALTY RETAIL,7/27/2023,6.47,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,MISC SPECIALTY RETAIL,7/27/2023,6.47,shopping
+transactions,5a73582adf954cf6b3db6cc97yedood7,Sensible Spenders,GBP,MISC SPECIALTY RETAIL,5/21/2023,67.21,shopping
+transactions,5a73582adf954cf6b3db6cc97yedood7,Sensible Spenders,GBP,MISC SPECIALTY RETAIL,5/21/2023,67.21,shopping
+transactions,5a73582adf954cf6b3db6cc97yedood7,Sensible Spenders,GBP,MISC SPECIALTY RETAIL,6/27/2023,93.63,shopping
+transactions,5a73582adf954cf6b3db6cc97yedood7,Sensible Spenders,GBP,MISC SPECIALTY RETAIL,6/27/2023,93.63,shopping
+transactions,5a73582adf954cf6b3db6cc97yedood7,Sensible Spenders,GBP,MISC SPECIALTY RETAIL,6/28/2023,30.62,shopping
+transactions,5a73582adf954cf6b3db6cc97yedood7,Sensible Spenders,GBP,MISC SPECIALTY RETAIL,6/28/2023,30.62,shopping
+transactions,5a73582adf954cf6b3db6cc97yedood7,Sensible Spenders,GBP,MISC SPECIALTY RETAIL,7/17/2023,92.01,shopping
+transactions,5a73582adf954cf6b3db6cc97yedood7,Sensible Spenders,GBP,MISC SPECIALTY RETAIL,7/17/2023,92.01,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,MISC SPECIALTY RETAIL,5/2/2023,12.43,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,MISC SPECIALTY RETAIL,5/3/2023,17.51,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,MISC SPECIALTY RETAIL,5/3/2023,32.45,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,MISC SPECIALTY RETAIL,5/3/2023,17.51,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,MISC SPECIALTY RETAIL,5/3/2023,32.45,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,MISC SPECIALTY RETAIL,5/4/2023,26.3,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,MISC SPECIALTY RETAIL,5/4/2023,60.19,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,MISC SPECIALTY RETAIL,5/4/2023,26.3,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,MISC SPECIALTY RETAIL,5/4/2023,60.19,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,MISC SPECIALTY RETAIL,5/12/2023,104.87,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,MISC SPECIALTY RETAIL,5/12/2023,104.87,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,MISC SPECIALTY RETAIL,5/13/2023,169.13,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,MISC SPECIALTY RETAIL,5/13/2023,169.13,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,MISC SPECIALTY RETAIL,5/25/2023,145.51,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,MISC SPECIALTY RETAIL,5/25/2023,205.01,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,MISC SPECIALTY RETAIL,5/25/2023,205.01,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,MISC SPECIALTY RETAIL,5/25/2023,145.51,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,MISC SPECIALTY RETAIL,5/30/2023,44.62,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,MISC SPECIALTY RETAIL,5/30/2023,44.62,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,MISC SPECIALTY RETAIL,6/1/2023,12.3,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,MISC SPECIALTY RETAIL,6/3/2023,60,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,MISC SPECIALTY RETAIL,6/24/2023,18.82,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,MISC SPECIALTY RETAIL,6/24/2023,182.95,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,MISC SPECIALTY RETAIL,6/24/2023,18.82,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,MISC SPECIALTY RETAIL,6/26/2023,37.79,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,MISC SPECIALTY RETAIL,6/26/2023,37.79,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,MISC SPECIALTY RETAIL,6/28/2023,156.7,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,MISC SPECIALTY RETAIL,6/28/2023,156.7,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,MISC SPECIALTY RETAIL,6/30/2023,69.67,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,MISC SPECIALTY RETAIL,6/30/2023,69.67,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,MISC SPECIALTY RETAIL,7/3/2023,165.49,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,MISC SPECIALTY RETAIL,7/5/2023,113.39,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,MISC SPECIALTY RETAIL,7/5/2023,113.39,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,MISC SPECIALTY RETAIL,7/9/2023,11.53,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,MISC SPECIALTY RETAIL,7/9/2023,11.53,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,MISC SPECIALTY RETAIL,7/10/2023,146.13,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,MISC SPECIALTY RETAIL,7/10/2023,146.13,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,MISC SPECIALTY RETAIL,7/22/2023,61.94,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,MISC SPECIALTY RETAIL,7/22/2023,64.52,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,MISC SPECIALTY RETAIL,7/22/2023,24.51,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,MISC SPECIALTY RETAIL,7/22/2023,24.51,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,MISC SPECIALTY RETAIL,7/22/2023,61.94,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,MISC SPECIALTY RETAIL,7/22/2023,64.52,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,MISC SPECIALTY RETAIL,7/23/2023,18.07,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,MISC SPECIALTY RETAIL,7/23/2023,19.35,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,MISC SPECIALTY RETAIL,7/23/2023,19.35,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,MISC SPECIALTY RETAIL,7/23/2023,23.22,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,MISC SPECIALTY RETAIL,7/23/2023,15.46,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,MISC SPECIALTY RETAIL,7/23/2023,15.46,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,MISC SPECIALTY RETAIL,7/23/2023,23.22,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,MISC SPECIALTY RETAIL,7/23/2023,18.07,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,MISC SPECIALTY RETAIL,7/24/2023,4.5,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,MISC SPECIALTY RETAIL,7/24/2023,4.5,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,MISC SPECIALTY RETAIL,7/25/2023,10.3,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,MISC SPECIALTY RETAIL,7/25/2023,10.3,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,MISC SPECIALTY RETAIL,7/25/2023,176.02,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,MISC SPECIALTY RETAIL,7/25/2023,176.02,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,MISC SPECIALTY RETAIL,7/29/2023,25.58,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,MISC SPECIALTY RETAIL,7/29/2023,25.58,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,MOTION PICTURE THEATRES,7/23/2023,8.39,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,MOTION PICTURE THEATRES,7/26/2023,48.4,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,MOTION PICTURE THEATRES,7/26/2023,48.4,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,MOTION PICTURE THEATRES,7/29/2023,15.95,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,MOTION PICTURE THEATRES,7/29/2023,15.95,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,MOTION PICTURE THEATRES,5/5/2023,40.15,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,MOTION PICTURE THEATRES,6/1/2023,29.69,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,MOTION PICTURE THEATRES,6/1/2023,29.69,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,MOTION PICTURE THEATRES,6/2/2023,40.13,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,MOTION PICTURE THEATRES,6/2/2023,40.13,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,MOTION PICTURE THEATRES,6/7/2023,37.27,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,MOTION PICTURE THEATRES,6/16/2023,60.74,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,MOTION PICTURE THEATRES,6/16/2023,53.3,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,MOTION PICTURE THEATRES,6/16/2023,60.74,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,MOTION PICTURE THEATRES,6/16/2023,53.3,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,MOTION PICTURE THEATRES,6/17/2023,28.21,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,MOTION PICTURE THEATRES,6/29/2023,25.25,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,MOTION PICTURE THEATRES,6/29/2023,20.41,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,MOTION PICTURE THEATRES,6/29/2023,20.41,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,MOTION PICTURE THEATRES,7/5/2023,25.48,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,MOTION PICTURE THEATRES,7/5/2023,25.48,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,MOTION PICTURE THEATRES,7/10/2023,57.89,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,MOTION PICTURE THEATRES,7/10/2023,57.89,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,MOTION PICTURE THEATRES,7/10/2023,18.74,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,MOTION PICTURE THEATRES,7/16/2023,21.04,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,MOTION PICTURE THEATRES,7/21/2023,20.75,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,MOTION PICTURE THEATRES,7/21/2023,14.65,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,MOTION PICTURE THEATRES,7/21/2023,20.75,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,NEWS DEALERS/NEWSSTANDS,5/2/2023,7.28,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,NEWS DEALERS/NEWSSTANDS,5/15/2023,5.64,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,NEWS DEALERS/NEWSSTANDS,5/19/2023,24.98,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,NEWS DEALERS/NEWSSTANDS,5/21/2023,7.23,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,NEWS DEALERS/NEWSSTANDS,5/25/2023,7.22,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,NEWS DEALERS/NEWSSTANDS,6/12/2023,5.47,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,NEWS DEALERS/NEWSSTANDS,6/16/2023,5.75,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,NEWS DEALERS/NEWSSTANDS,6/18/2023,5.78,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,NEWS DEALERS/NEWSSTANDS,7/5/2023,5.73,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,NEWS DEALERS/NEWSSTANDS,7/9/2023,5.78,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,NEWS DEALERS/NEWSSTANDS,7/12/2023,7.62,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,NEWS DEALERS/NEWSSTANDS,7/16/2023,7.74,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,NEWS DEALERS/NEWSSTANDS,7/20/2023,9.18,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,NEWS DEALERS/NEWSSTANDS,7/30/2023,7.59,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,NEWS DEALERS/NEWSSTANDS,5/10/2023,76.09,shopping
+transactions,5a73582adf954cf6b3db6cc97yedood7,Sensible Spenders,GBP,NEWS DEALERS/NEWSSTANDS,5/11/2023,3.8,shopping
+transactions,5a73582adf954cf6b3db6cc97yedood7,Sensible Spenders,GBP,NEWS DEALERS/NEWSSTANDS,5/16/2023,3.76,shopping
+transactions,5a73582adf954cf6b3db6cc97yedood7,Sensible Spenders,GBP,NEWS DEALERS/NEWSSTANDS,5/17/2023,3.76,shopping
+transactions,5a73582adf954cf6b3db6cc97yedood7,Sensible Spenders,GBP,NEWS DEALERS/NEWSSTANDS,7/26/2023,6.13,shopping
+transactions,5a73582adf954cf6b3db6cc97yedood7,Sensible Spenders,GBP,NEWS DEALERS/NEWSSTANDS,7/27/2023,3.89,shopping
+transactions,5a73582adf954cf6b3db6cc97yedood7,Sensible Spenders,GBP,NEWS DEALERS/NEWSSTANDS,7/28/2023,7.25,shopping
+transactions,5a73582adf954cf6b3db6cc97yedood7,Sensible Spenders,GBP,NEWS DEALERS/NEWSSTANDS,7/28/2023,5.39,shopping
+transactions,5a73582adf954cf6b3db6cc97yedood7,Sensible Spenders,GBP,NEWS DEALERS/NEWSSTANDS,7/29/2023,6.12,shopping
+transactions,5a73582adf954cf6b3db6cc97yedood7,Sensible Spenders,GBP,NEWS DEALERS/NEWSSTANDS,7/29/2023,2.96,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,NEWS DEALERS/NEWSSTANDS,5/2/2023,4.44,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,NEWS DEALERS/NEWSSTANDS,5/4/2023,4.62,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,NEWS DEALERS/NEWSSTANDS,5/4/2023,3.65,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,NEWS DEALERS/NEWSSTANDS,5/6/2023,10.58,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,NEWS DEALERS/NEWSSTANDS,5/7/2023,14.17,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,NEWS DEALERS/NEWSSTANDS,5/8/2023,3.14,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,NEWS DEALERS/NEWSSTANDS,5/8/2023,5.69,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,NEWS DEALERS/NEWSSTANDS,5/10/2023,6.22,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,NEWS DEALERS/NEWSSTANDS,5/10/2023,3.67,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,NEWS DEALERS/NEWSSTANDS,5/11/2023,2.16,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,NEWS DEALERS/NEWSSTANDS,5/13/2023,21.26,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,NEWS DEALERS/NEWSSTANDS,5/14/2023,4.68,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,NEWS DEALERS/NEWSSTANDS,5/17/2023,5.02,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,NEWS DEALERS/NEWSSTANDS,5/17/2023,10.29,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,NEWS DEALERS/NEWSSTANDS,5/19/2023,6.12,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,NEWS DEALERS/NEWSSTANDS,5/21/2023,2.92,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,NEWS DEALERS/NEWSSTANDS,5/22/2023,6.08,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,NEWS DEALERS/NEWSSTANDS,5/23/2023,4.4,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,NEWS DEALERS/NEWSSTANDS,5/23/2023,7.05,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,NEWS DEALERS/NEWSSTANDS,5/27/2023,6.42,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,NEWS DEALERS/NEWSSTANDS,5/28/2023,8.06,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,NEWS DEALERS/NEWSSTANDS,6/6/2023,6.14,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,NEWS DEALERS/NEWSSTANDS,6/8/2023,4.96,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,NEWS DEALERS/NEWSSTANDS,6/9/2023,13.13,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,NEWS DEALERS/NEWSSTANDS,6/14/2023,15.47,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,NEWS DEALERS/NEWSSTANDS,6/14/2023,4.21,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,NEWS DEALERS/NEWSSTANDS,6/15/2023,8.33,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,NEWS DEALERS/NEWSSTANDS,6/16/2023,3.06,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,NEWS DEALERS/NEWSSTANDS,6/17/2023,2.57,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,NEWS DEALERS/NEWSSTANDS,6/20/2023,4.79,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,NEWS DEALERS/NEWSSTANDS,6/21/2023,13.08,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,NEWS DEALERS/NEWSSTANDS,6/23/2023,2.57,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,NEWS DEALERS/NEWSSTANDS,6/24/2023,3.04,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,NEWS DEALERS/NEWSSTANDS,6/26/2023,5.8,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,NEWS DEALERS/NEWSSTANDS,6/27/2023,11.86,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,NEWS DEALERS/NEWSSTANDS,6/27/2023,3.42,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,NEWS DEALERS/NEWSSTANDS,7/2/2023,5.79,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,NEWS DEALERS/NEWSSTANDS,7/2/2023,6.02,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,NEWS DEALERS/NEWSSTANDS,7/3/2023,1.15,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,NEWS DEALERS/NEWSSTANDS,7/5/2023,5.61,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,NEWS DEALERS/NEWSSTANDS,7/5/2023,6.03,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,NEWS DEALERS/NEWSSTANDS,7/17/2023,15.34,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,NEWS DEALERS/NEWSSTANDS,7/25/2023,5.34,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,NEWS DEALERS/NEWSSTANDS,7/25/2023,1.66,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,NEWS DEALERS/NEWSSTANDS,7/27/2023,4.64,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,NEWS DEALERS/NEWSSTANDS,7/31/2023,5.71,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,"NURSERIES, LAWN/GARDEN SUPPLY",6/11/2023,9.29,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,"NURSERIES, LAWN/GARDEN SUPPLY",6/11/2023,35.24,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,"NURSERIES, LAWN/GARDEN SUPPLY",7/17/2023,7.22,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,OPTICIANS,7/28/2023,13,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,OTHER DIRECT MARKETERS,6/4/2023,50.2,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,OTHER DIRECT MARKETERS,6/4/2023,50.2,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,OTHER DIRECT MARKETERS,7/13/2023,20.52,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,OTHER DIRECT MARKETERS,7/13/2023,20.52,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,OTHER DIRECT MARKETERS,7/19/2023,4.45,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,OTHER DIRECT MARKETERS,7/19/2023,4.45,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,OTHER DIRECT MARKETERS,7/22/2023,32.27,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,OTHER DIRECT MARKETERS,7/22/2023,32.27,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,OTHER DIRECT MARKETERS,5/3/2023,123.9,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,OTHER DIRECT MARKETERS,5/3/2023,123.9,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,OTHER DIRECT MARKETERS,6/10/2023,74.27,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,OTHER DIRECT MARKETERS,6/10/2023,74.27,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,OTHER DIRECT MARKETERS,6/13/2023,31.52,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,OTHER DIRECT MARKETERS,6/13/2023,31.52,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,OTHER DIRECT MARKETERS,7/23/2023,9.63,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,OTHER DIRECT MARKETERS,7/23/2023,9.63,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,OTHER DIRECT MARKETERS,5/20/2023,17.24,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,OTHER DIRECT MARKETERS,5/20/2023,17.24,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,OTHER DIRECT MARKETERS,6/26/2023,7.65,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,OTHER DIRECT MARKETERS,6/26/2023,7.65,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,OTHER DIRECT MARKETERS,6/27/2023,14.31,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,OTHER DIRECT MARKETERS,6/27/2023,14.31,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,OTHER DIRECT MARKETERS,7/1/2023,25.6,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,OTHER DIRECT MARKETERS,7/1/2023,25.6,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,OTHER DIRECT MARKETERS,7/16/2023,299.98,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,OTHER DIRECT MARKETERS,7/16/2023,299.98,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,"PARKING LOTS,METERS,GARAGES",5/9/2023,2.79,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,"PARKING LOTS,METERS,GARAGES",5/11/2023,21.56,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,"PARKING LOTS,METERS,GARAGES",5/15/2023,3.64,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,"PARKING LOTS,METERS,GARAGES",5/18/2023,125.13,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,"PARKING LOTS,METERS,GARAGES",5/30/2023,1.74,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,"PARKING LOTS,METERS,GARAGES",6/2/2023,13.04,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,"PARKING LOTS,METERS,GARAGES",6/7/2023,3.74,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,"PARKING LOTS,METERS,GARAGES",6/15/2023,2.54,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,"PARKING LOTS,METERS,GARAGES",6/19/2023,4.88,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,"PARKING LOTS,METERS,GARAGES",6/20/2023,7.7,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,"PARKING LOTS,METERS,GARAGES",7/6/2023,2.55,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,"PARKING LOTS,METERS,GARAGES",7/13/2023,7.8,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,"PARKING LOTS,METERS,GARAGES",7/23/2023,7.74,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,"PARKING LOTS,METERS,GARAGES",7/23/2023,4.39,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,"PARKING LOTS,METERS,GARAGES",7/27/2023,3.89,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,"PARKING LOTS,METERS,GARAGES",5/6/2023,1.01,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,"PARKING LOTS,METERS,GARAGES",5/13/2023,1.13,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,"PARKING LOTS,METERS,GARAGES",5/14/2023,10.8,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,"PARKING LOTS,METERS,GARAGES",5/14/2023,3.9,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,"PARKING LOTS,METERS,GARAGES",6/8/2023,6.25,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,"PARKING LOTS,METERS,GARAGES",6/19/2023,1.03,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,"PARKING LOTS,METERS,GARAGES",6/19/2023,2.31,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,"PARKING LOTS,METERS,GARAGES",7/1/2023,7.01,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,"PARKING LOTS,METERS,GARAGES",7/2/2023,1.15,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,"PARKING LOTS,METERS,GARAGES",7/15/2023,6.18,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,"PARKING LOTS,METERS,GARAGES",6/3/2023,1.47,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,"PARKING LOTS,METERS,GARAGES",6/3/2023,1.47,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,"PARKING LOTS,METERS,GARAGES",6/4/2023,0.97,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,"PARKING LOTS,METERS,GARAGES",6/4/2023,0.97,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,"PARKING LOTS,METERS,GARAGES",6/6/2023,1.46,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,"PARKING LOTS,METERS,GARAGES",6/6/2023,1.46,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,"PARKING LOTS,METERS,GARAGES",6/11/2023,0.97,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,"PARKING LOTS,METERS,GARAGES",6/11/2023,0.97,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,"PARKING LOTS,METERS,GARAGES",6/12/2023,75.56,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,"PARKING LOTS,METERS,GARAGES",6/13/2023,1.47,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,"PARKING LOTS,METERS,GARAGES",6/13/2023,0.97,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,"PARKING LOTS,METERS,GARAGES",6/13/2023,1.47,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,"PARKING LOTS,METERS,GARAGES",6/13/2023,0.97,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,"PARKING LOTS,METERS,GARAGES",6/18/2023,0.99,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,"PARKING LOTS,METERS,GARAGES",6/18/2023,0.99,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,"PARKING LOTS,METERS,GARAGES",6/19/2023,33.03,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,"PARKING LOTS,METERS,GARAGES",6/20/2023,16.05,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,"PARKING LOTS,METERS,GARAGES",6/25/2023,1.49,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,"PARKING LOTS,METERS,GARAGES",6/25/2023,1.49,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,"PARKING LOTS,METERS,GARAGES",7/4/2023,1.49,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,"PARKING LOTS,METERS,GARAGES",7/4/2023,1.49,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,"PARKING LOTS,METERS,GARAGES",7/8/2023,1.5,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,"PARKING LOTS,METERS,GARAGES",7/8/2023,1.5,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,"PARKING LOTS,METERS,GARAGES",7/19/2023,1.14,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,"PARKING LOTS,METERS,GARAGES",7/19/2023,1.14,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,"PARKING LOTS,METERS,GARAGES",7/28/2023,3.9,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,"PARKING LOTS,METERS,GARAGES",7/29/2023,1.51,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,"PARKING LOTS,METERS,GARAGES",7/29/2023,1.51,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,"PARKING LOTS,METERS,GARAGES",5/3/2023,6.26,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,"PARKING LOTS,METERS,GARAGES",5/3/2023,6.26,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,"PARKING LOTS,METERS,GARAGES",5/16/2023,2.88,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,"PARKING LOTS,METERS,GARAGES",7/10/2023,6.94,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,"PARKING LOTS,METERS,GARAGES",7/10/2023,6.94,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,"PARKING LOTS,METERS,GARAGES",7/16/2023,16.17,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,"PARKING LOTS,METERS,GARAGES",7/16/2023,16.17,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,PASSENGER RAILWAYS,7/26/2023,12.91,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,PASSENGER RAILWAYS,6/20/2023,23.88,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,PASSENGER RAILWAYS,6/21/2023,24.99,shopping
+transactions,5a73582adf954cf6b3db6cc97yedood7,Sensible Spenders,GBP,PASSENGER RAILWAYS,5/9/2023,24.07,shopping
+transactions,5a73582adf954cf6b3db6cc97yedood7,Sensible Spenders,GBP,PASSENGER RAILWAYS,7/20/2023,6.01,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,PHOTOFINISH LABS/DEV,6/11/2023,26.45,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,PHOTOFINISH LABS/DEV,6/11/2023,26.45,shopping
+transactions,5a73582adf954cf6b3db6cc97yedood7,Sensible Spenders,GBP,POSTAGE STAMPS,5/27/2023,99.18,shopping
+transactions,5a73582adf954cf6b3db6cc97yedood7,Sensible Spenders,GBP,POSTAGE STAMPS,6/27/2023,63.76,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,POSTAGE STAMPS,6/17/2023,14.72,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,PROFESSIONAL SERVICES - DEF,5/13/2023,3.76,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,PROFESSIONAL SERVICES - DEF,5/19/2023,2.5,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,PROFESSIONAL SERVICES - DEF,5/23/2023,6.23,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,PROFESSIONAL SERVICES - DEF,5/23/2023,6.23,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,PROFESSIONAL SERVICES - DEF,5/30/2023,6.2,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,PROFESSIONAL SERVICES - DEF,7/8/2023,2.57,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,RECORD STORES,5/22/2023,6.23,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,RECORD STORES,5/22/2023,6.23,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,RECORD STORES,6/22/2023,6.39,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,RECORD STORES,6/22/2023,6.39,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,RECORD STORES,7/22/2023,6.44,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,RECORD STORES,7/22/2023,6.44,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,RECREATION SERVICES,5/14/2023,6.46,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,RECREATION SERVICES,5/14/2023,1.88,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,RECREATION SERVICES,5/16/2023,14.92,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,RECREATION SERVICES,6/28/2023,15.19,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,RECREATION SERVICES,6/28/2023,1.91,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,RECREATION SERVICES,7/11/2023,13.97,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,RECREATION SERVICES,7/11/2023,1.8,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,RESTAURANTS,5/20/2023,21.23,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,RESTAURANTS,5/20/2023,21.23,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,RESTAURANTS,5/30/2023,11.41,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,RESTAURANTS,5/30/2023,11.41,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,RESTAURANTS,6/1/2023,3.73,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,RESTAURANTS,6/2/2023,14.17,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,RESTAURANTS,6/2/2023,34.94,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,RESTAURANTS,6/7/2023,16.77,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,RESTAURANTS,6/15/2023,40.44,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,RESTAURANTS,6/15/2023,40.44,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,RESTAURANTS,6/19/2023,93.18,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,RESTAURANTS,6/20/2023,23.62,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,RESTAURANTS,6/20/2023,5.2,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,RESTAURANTS,6/20/2023,5.2,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,RESTAURANTS,6/23/2023,27.84,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,RESTAURANTS,6/23/2023,27.84,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,RESTAURANTS,6/24/2023,37.57,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,RESTAURANTS,6/24/2023,7.02,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,RESTAURANTS,6/24/2023,7.02,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,RESTAURANTS,6/24/2023,37.57,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,RESTAURANTS,7/7/2023,8.31,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,RESTAURANTS,7/7/2023,8.31,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,RESTAURANTS,7/14/2023,1.3,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,RESTAURANTS,7/14/2023,10.97,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,RESTAURANTS,5/2/2023,12.57,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,RESTAURANTS,5/2/2023,12.57,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,RESTAURANTS,5/17/2023,8.97,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,RESTAURANTS,5/17/2023,8.97,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,RESTAURANTS,5/24/2023,8.03,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,RESTAURANTS,5/24/2023,8.03,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,RESTAURANTS,5/31/2023,8.03,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,RESTAURANTS,5/31/2023,8.03,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,RESTAURANTS,6/5/2023,59.56,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,RESTAURANTS,6/5/2023,59.56,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,RESTAURANTS,6/14/2023,8.15,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,RESTAURANTS,6/14/2023,8.15,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,RESTAURANTS,6/18/2023,23.13,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,RESTAURANTS,6/24/2023,7.91,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,RESTAURANTS,6/28/2023,8.87,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,RESTAURANTS,6/28/2023,8.87,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,RESTAURANTS,7/2/2023,9.04,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,RESTAURANTS,7/4/2023,47.05,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,RESTAURANTS,7/5/2023,22.68,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,RESTAURANTS,7/6/2023,127.38,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,RESTAURANTS,7/6/2023,69.5,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,RESTAURANTS,7/7/2023,4.6,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,RESTAURANTS,7/10/2023,12.34,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,RESTAURANTS,7/19/2023,9.12,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,RESTAURANTS,7/19/2023,9.12,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,RESTAURANTS,7/20/2023,3.91,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,RESTAURANTS,7/20/2023,137.15,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,RESTAURANTS,7/22/2023,18.39,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,RESTAURANTS,5/7/2023,20.75,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,RESTAURANTS,5/7/2023,20.75,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,RESTAURANTS,5/8/2023,10.76,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,RESTAURANTS,5/8/2023,3.16,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,RESTAURANTS,5/8/2023,5,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,RESTAURANTS,5/8/2023,5,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,RESTAURANTS,5/8/2023,10.76,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,RESTAURANTS,5/8/2023,3.16,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,RESTAURANTS,5/15/2023,1.88,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,RESTAURANTS,5/15/2023,1.88,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,RESTAURANTS,5/18/2023,45.66,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,RESTAURANTS,5/23/2023,18.19,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,RESTAURANTS,5/23/2023,26.78,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,RESTAURANTS,5/23/2023,18.19,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,RESTAURANTS,5/23/2023,26.78,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,RESTAURANTS,5/31/2023,20.65,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,RESTAURANTS,5/31/2023,19.3,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,RESTAURANTS,5/31/2023,20.65,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,RESTAURANTS,5/31/2023,19.3,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,RESTAURANTS,6/2/2023,13.92,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,RESTAURANTS,6/3/2023,25.75,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,RESTAURANTS,6/3/2023,25.75,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,RESTAURANTS,6/7/2023,35.06,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,RESTAURANTS,6/7/2023,35.06,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,RESTAURANTS,6/10/2023,44.03,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,RESTAURANTS,6/10/2023,44.03,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,RESTAURANTS,6/11/2023,13.85,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,RESTAURANTS,6/11/2023,13.85,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,RESTAURANTS,6/18/2023,50.23,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,RESTAURANTS,6/18/2023,9.06,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,RESTAURANTS,6/18/2023,27.5,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,RESTAURANTS,6/18/2023,9.06,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,RESTAURANTS,6/18/2023,50.23,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,RESTAURANTS,6/26/2023,14.61,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,RESTAURANTS,6/26/2023,14.61,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,RESTAURANTS,6/28/2023,5.74,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,RESTAURANTS,6/28/2023,5.74,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,RESTAURANTS,7/1/2023,5.16,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,RESTAURANTS,7/3/2023,7.26,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,RESTAURANTS,7/3/2023,7.26,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,RESTAURANTS,7/4/2023,5.22,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,RESTAURANTS,7/4/2023,7.25,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,RESTAURANTS,7/4/2023,5.22,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,RESTAURANTS,7/4/2023,7.25,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,RESTAURANTS,7/5/2023,7.33,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,RESTAURANTS,7/5/2023,7.33,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,RESTAURANTS,7/9/2023,7.33,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,RESTAURANTS,7/9/2023,7.33,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,RESTAURANTS,7/10/2023,13.37,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,RESTAURANTS,7/10/2023,13.37,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,RESTAURANTS,7/11/2023,47.39,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,RESTAURANTS,7/11/2023,47.39,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,RESTAURANTS,7/12/2023,7.7,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,RESTAURANTS,7/12/2023,7.7,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,RESTAURANTS,7/18/2023,10.96,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,RESTAURANTS,7/18/2023,10.96,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,RESTAURANTS,7/19/2023,8.21,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,RESTAURANTS,7/19/2023,8.21,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,RESTAURANTS,7/24/2023,40.01,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,RESTAURANTS,7/24/2023,31.5,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,RESTAURANTS,7/24/2023,31.5,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,RESTAURANTS,7/24/2023,40.01,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,RESTAURANTS,7/27/2023,24.93,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,RESTAURANTS,7/27/2023,24.93,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,RESTAURANTS,7/28/2023,65.54,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,RESTAURANTS,7/28/2023,9.16,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,RESTAURANTS,7/28/2023,25.87,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,RESTAURANTS,7/28/2023,65.54,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,RESTAURANTS,7/31/2023,5.03,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,RESTAURANTS,7/31/2023,9.28,shopping
+transactions,5a73582adf954cf6b3db6cc97yedood7,Sensible Spenders,GBP,RESTAURANTS,5/1/2023,34.75,shopping
+transactions,5a73582adf954cf6b3db6cc97yedood7,Sensible Spenders,GBP,RESTAURANTS,5/1/2023,34.75,shopping
+transactions,5a73582adf954cf6b3db6cc97yedood7,Sensible Spenders,GBP,RESTAURANTS,5/2/2023,14.15,shopping
+transactions,5a73582adf954cf6b3db6cc97yedood7,Sensible Spenders,GBP,RESTAURANTS,5/13/2023,4.77,shopping
+transactions,5a73582adf954cf6b3db6cc97yedood7,Sensible Spenders,GBP,RESTAURANTS,5/19/2023,42.3,shopping
+transactions,5a73582adf954cf6b3db6cc97yedood7,Sensible Spenders,GBP,RESTAURANTS,5/19/2023,42.3,shopping
+transactions,5a73582adf954cf6b3db6cc97yedood7,Sensible Spenders,GBP,RESTAURANTS,5/28/2023,31.26,shopping
+transactions,5a73582adf954cf6b3db6cc97yedood7,Sensible Spenders,GBP,RESTAURANTS,6/2/2023,20.87,shopping
+transactions,5a73582adf954cf6b3db6cc97yedood7,Sensible Spenders,GBP,RESTAURANTS,6/2/2023,30.05,shopping
+transactions,5a73582adf954cf6b3db6cc97yedood7,Sensible Spenders,GBP,RESTAURANTS,6/7/2023,31.91,shopping
+transactions,5a73582adf954cf6b3db6cc97yedood7,Sensible Spenders,GBP,RESTAURANTS,6/7/2023,31.91,shopping
+transactions,5a73582adf954cf6b3db6cc97yedood7,Sensible Spenders,GBP,RESTAURANTS,6/8/2023,24.86,shopping
+transactions,5a73582adf954cf6b3db6cc97yedood7,Sensible Spenders,GBP,RESTAURANTS,6/27/2023,37.55,shopping
+transactions,5a73582adf954cf6b3db6cc97yedood7,Sensible Spenders,GBP,RESTAURANTS,6/28/2023,34.75,shopping
+transactions,5a73582adf954cf6b3db6cc97yedood7,Sensible Spenders,GBP,RESTAURANTS,7/12/2023,20.7,shopping
+transactions,5a73582adf954cf6b3db6cc97yedood7,Sensible Spenders,GBP,RESTAURANTS,7/21/2023,34.51,shopping
+transactions,5a73582adf954cf6b3db6cc97yedood7,Sensible Spenders,GBP,RESTAURANTS,7/21/2023,34.51,shopping
+transactions,5a73582adf954cf6b3db6cc97yedood7,Sensible Spenders,GBP,RESTAURANTS,7/25/2023,32.49,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,RESTAURANTS,5/2/2023,2.5,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,RESTAURANTS,5/6/2023,25.64,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,RESTAURANTS,5/7/2023,2.57,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,RESTAURANTS,5/16/2023,19.36,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,RESTAURANTS,5/20/2023,4.99,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,RESTAURANTS,5/20/2023,4.99,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,RESTAURANTS,5/20/2023,34.41,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,RESTAURANTS,5/23/2023,11.96,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,RESTAURANTS,5/24/2023,122.41,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,RESTAURANTS,5/25/2023,149.08,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,RESTAURANTS,5/25/2023,149.08,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,RESTAURANTS,5/26/2023,21.37,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,RESTAURANTS,5/26/2023,2.14,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,RESTAURANTS,5/26/2023,38.25,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,RESTAURANTS,5/26/2023,11,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,RESTAURANTS,5/28/2023,1.26,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,RESTAURANTS,5/31/2023,22.55,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,RESTAURANTS,6/1/2023,4.98,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,RESTAURANTS,6/1/2023,4.98,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,RESTAURANTS,6/1/2023,3.39,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,RESTAURANTS,6/4/2023,2.41,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,RESTAURANTS,6/4/2023,16.08,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,RESTAURANTS,6/5/2023,66.63,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,RESTAURANTS,6/5/2023,66.63,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,RESTAURANTS,6/10/2023,104.52,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,RESTAURANTS,6/11/2023,9.63,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,RESTAURANTS,6/11/2023,11.59,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,RESTAURANTS,6/18/2023,107.71,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,RESTAURANTS,6/19/2023,26.35,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,RESTAURANTS,6/23/2023,8.86,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,RESTAURANTS,6/23/2023,46.25,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,RESTAURANTS,6/23/2023,8.86,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,RESTAURANTS,6/23/2023,46.25,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,RESTAURANTS,6/26/2023,5.87,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,RESTAURANTS,6/29/2023,21.97,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,RESTAURANTS,6/29/2023,21.97,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,RESTAURANTS,7/1/2023,18.46,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,RESTAURANTS,7/1/2023,12.73,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,RESTAURANTS,7/1/2023,18.46,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,RESTAURANTS,7/1/2023,12.73,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,RESTAURANTS,7/4/2023,20.26,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,RESTAURANTS,7/6/2023,20.42,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,RESTAURANTS,7/6/2023,3.04,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,RESTAURANTS,7/6/2023,3.82,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,RESTAURANTS,7/6/2023,3.82,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,RESTAURANTS,7/7/2023,2.05,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,RESTAURANTS,7/8/2023,2.44,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,RESTAURANTS,7/8/2023,12.7,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,RESTAURANTS,7/9/2023,23.78,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,RESTAURANTS,7/9/2023,23.78,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,RESTAURANTS,7/10/2023,24.17,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,RESTAURANTS,7/10/2023,24.17,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,RESTAURANTS,7/14/2023,6.83,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,RESTAURANTS,7/14/2023,6.83,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,RESTAURANTS,7/16/2023,3.94,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,RESTAURANTS,7/16/2023,11.83,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,RESTAURANTS,7/16/2023,3.94,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,RESTAURANTS,7/17/2023,21.65,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,RESTAURANTS,7/19/2023,5.91,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,RESTAURANTS,7/19/2023,5.91,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,RESTAURANTS,7/20/2023,5.22,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,RESTAURANTS,7/20/2023,5.22,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,RESTAURANTS,7/22/2023,0.64,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,RESTAURANTS,7/22/2023,15.23,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,RESTAURANTS,7/22/2023,15.23,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,RESTAURANTS,7/22/2023,0.64,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,RESTAURANTS,7/22/2023,129.21,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,RESTAURANTS,7/23/2023,61.7,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,RESTAURANTS,7/23/2023,61.7,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,SERVICE STATIONS,5/19/2023,2.49,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,SERVICE STATIONS,5/19/2023,2.49,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,SERVICE STATIONS,5/21/2023,55.4,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,SERVICE STATIONS,5/21/2023,3.63,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,SERVICE STATIONS,5/21/2023,3.63,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,SERVICE STATIONS,5/21/2023,55.4,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,SERVICE STATIONS,6/13/2023,62.64,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,SERVICE STATIONS,6/13/2023,62.64,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,SERVICE STATIONS,6/26/2023,7.02,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,SERVICE STATIONS,6/26/2023,7.02,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,SERVICE STATIONS,7/31/2023,54.53,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,SERVICE STATIONS,7/31/2023,54.53,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,SERVICE STATIONS,5/1/2023,6.04,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,SERVICE STATIONS,5/1/2023,6.04,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,SERVICE STATIONS,5/30/2023,58.58,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,SERVICE STATIONS,6/11/2023,9,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,SERVICE STATIONS,7/1/2023,60.66,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,SERVICE STATIONS,5/5/2023,77.04,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,SERVICE STATIONS,5/18/2023,36.66,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,SERVICE STATIONS,5/20/2023,50.82,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,SERVICE STATIONS,5/24/2023,10.63,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,SERVICE STATIONS,5/28/2023,17.65,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,SERVICE STATIONS,6/7/2023,32.15,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,SERVICE STATIONS,6/19/2023,68.77,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,SERVICE STATIONS,6/29/2023,9.48,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,SERVICE STATIONS,7/5/2023,63.88,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,SERVICE STATIONS,7/6/2023,18.34,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,SERVICE STATIONS,7/7/2023,15.23,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,SERVICE STATIONS,7/20/2023,15.28,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,SERVICE STATIONS,7/22/2023,15.46,shopping
+transactions,5a73582adf954cf6b3db6cc97yedood7,Sensible Spenders,GBP,SERVICE STATIONS,5/10/2023,14.16,shopping
+transactions,5a73582adf954cf6b3db6cc97yedood7,Sensible Spenders,GBP,SERVICE STATIONS,6/28/2023,6.13,shopping
+transactions,5a73582adf954cf6b3db6cc97yedood7,Sensible Spenders,GBP,SERVICE STATIONS,7/7/2023,20.58,shopping
+transactions,5a73582adf954cf6b3db6cc97yedood7,Sensible Spenders,GBP,SERVICE STATIONS,7/27/2023,15.69,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,SERVICE STATIONS,5/11/2023,36.52,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,SERVICE STATIONS,5/22/2023,59.25,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,SERVICE STATIONS,6/7/2023,56.72,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,SHOE STORES,7/12/2023,95.06,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,SPORTING GOODS STORES,6/15/2023,101.87,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,SPORTING GOODS STORES,7/23/2023,49.3,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,SPORTING GOODS STORES,5/10/2023,44.02,shopping
+transactions,5a73582adf954cf6b3db6cc97yedood7,Sensible Spenders,GBP,SPORTING GOODS STORES,5/14/2023,27.53,shopping
+transactions,5a73582adf954cf6b3db6cc97yedood7,Sensible Spenders,GBP,SPORTING GOODS STORES,5/25/2023,43.65,shopping
+transactions,5a73582adf954cf6b3db6cc97yedood7,Sensible Spenders,GBP,SPORTING GOODS STORES,6/7/2023,39.89,shopping
+transactions,5a73582adf954cf6b3db6cc97yedood7,Sensible Spenders,GBP,SPORTING GOODS STORES,6/11/2023,16.04,shopping
+transactions,5a73582adf954cf6b3db6cc97yedood7,Sensible Spenders,GBP,SPORTING GOODS STORES,6/20/2023,45.39,shopping
+transactions,5a73582adf954cf6b3db6cc97yedood7,Sensible Spenders,GBP,SPORTING GOODS STORES,6/22/2023,45.19,shopping
+transactions,5a73582adf954cf6b3db6cc97yedood7,Sensible Spenders,GBP,SPORTING GOODS STORES,7/15/2023,14.13,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,SPORTING GOODS STORES,6/29/2023,87.26,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,SPORTS/RIDING APPAREL STORES,6/15/2023,30.98,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,SPORTS/RIDING APPAREL STORES,5/23/2023,209.51,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,SPORTS/RIDING APPAREL STORES,5/23/2023,209.51,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,SPORTS/RIDING APPAREL STORES,6/2/2023,119.12,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,SPORTS/RIDING APPAREL STORES,6/2/2023,119.12,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,SPORTS/RIDING APPAREL STORES,6/19/2023,26.95,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,SPORTS/RIDING APPAREL STORES,6/19/2023,26.95,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,STATIONERY STORES,5/3/2023,18.61,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,STATIONERY STORES,5/14/2023,23.18,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,STATIONERY STORES,7/22/2023,20.59,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,STATIONERY/OFFICE SUPPLIES,5/18/2023,1.61,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,TAX PAYMENTS,6/22/2023,192.08,shopping
+transactions,5a73582adf954cf6b3db6cc97yedood7,Sensible Spenders,GBP,TAXICABS/LIMOUSINES,5/9/2023,41.81,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,TELECOMMUNICATION EQUIPMENT,6/13/2023,75.64,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,TELECOMMUNICATION SERVICES,5/2/2023,12.58,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,TELECOMMUNICATION SERVICES,5/26/2023,12.39,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,TELECOMMUNICATION SERVICES,6/2/2023,12.54,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,TELECOMMUNICATION SERVICES,6/7/2023,12.47,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,TELECOMMUNICATION SERVICES,7/2/2023,12.73,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,TELECOMMUNICATION SERVICES,7/7/2023,12.78,shopping
+transactions,94177e7a3daa4ef18746b355980ebd5f,Family,GBP,THEATRICAL PRODUCERS,7/6/2023,114.64,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,THEATRICAL PRODUCERS,5/3/2023,38.8,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,THEATRICAL PRODUCERS,5/17/2023,268.15,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,THEATRICAL PRODUCERS,5/20/2023,16.6,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,THEATRICAL PRODUCERS,6/15/2023,76.21,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,THEATRICAL PRODUCERS,6/17/2023,12.59,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,THEATRICAL PRODUCERS,6/30/2023,31.67,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,THEATRICAL PRODUCERS,6/30/2023,31.67,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,THEATRICAL PRODUCERS,6/30/2023,131.19,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,THEATRICAL PRODUCERS,7/22/2023,19.23,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,THEATRICAL PRODUCERS,7/25/2023,122.43,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,THEATRICAL PRODUCERS,7/27/2023,75.19,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,TOURIST ATTRACTIONS AND XHBT,5/20/2023,4.37,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,TRAVEL AGENCIES,7/6/2023,117.98,shopping
+transactions,6r88582adf954cf6b3db6cc97bedccd9,Urban Spenders,GBP,TRAVEL AGENCIES,7/6/2023,117.98,shopping
+transactions,5a73582adf954cf6b3db6cc97yedood7,Sensible Spenders,GBP,UTILITIES/ELEC/GAS/H2O/SANI,7/15/2023,65.74,shopping
+transactions,5a73582adf954cf6b3db6cc97yedood7,Sensible Spenders,GBP,UTILITIES/ELEC/GAS/H2O/SANI,7/30/2023,38.67,shopping
+transactions,5a73582adf954cf6b3db6cc97yedood7,Sensible Spenders,GBP,UTILITIES/ELEC/GAS/H2O/SANI,7/30/2023,64.45,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,VARIETY STORES,7/12/2023,56.05,shopping
+transactions,5a73582adf954cf6b3db6cc97tedggd9,Frugal Family,GBP,VARIETY STORES,6/13/2023,17.65,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,WOMENS READY TO WEAR STORES,6/1/2023,96.78,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,WOMENS READY TO WEAR STORES,6/3/2023,70.25,shopping
+transactions,5a73582adf954cf6b3db6cc97bedccd9,Affluent Segment,GBP,WOMENS READY TO WEAR STORES,7/13/2023,22.08,shopping
